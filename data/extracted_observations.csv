@@ -1,0 +1,19 @@
+record_id,source_id,entity,metric,reference_year,value,unit,scope,locator,interpretation_note
+AV1-001,U1,Unilever,recycled_plastic_used,2020,76000,tonnes,Reported plastic packaging portfolio,Waste-free world; recycled plastic used; footnotes a-c,Changing country coverage and period end; not constant perimeter
+AV1-002,U1,Unilever,recycled_plastic_used,2021,125000,tonnes,Reported plastic packaging portfolio,Waste-free world; recycled plastic used; footnotes a-c,Changing country coverage and period end; not constant perimeter
+AV1-003,U1,Unilever,recycled_plastic_used,2022,145000,tonnes,Reported plastic packaging portfolio,Waste-free world; recycled plastic used; footnotes a-c,Changing country coverage and period end; not constant perimeter
+AV1-004,U1,Unilever,recycled_plastic_used,2023,146000,tonnes,Reported plastic packaging portfolio,Waste-free world; recycled plastic used; footnotes a-c,Changing country coverage and period end; not constant perimeter
+AV1-005,N1,Natura &Co,reusable_recyclable_compostable_materials,2023,87.8,percent,Natura and Avon Latin America as reported,Opening section,Corporate report; denominator and assurance not independently verified
+AV1-006,N1,Natura &Co,reusable_recyclable_compostable_materials,2024,84.6,percent,Natura and Avon Latin America as reported,Opening section,Corporate report; denominator and assurance not independently verified
+AV1-007,N1,Natura &Co,postconsumer_recycled_plastic_index,2024,18.2,percent,Latin America consolidated as reported,Highlighted text,Not reconciled with separately reported MRPC index
+AV1-008,N1,Natura &Co,elos_investment,2024,1014173,BRL,Natura Elos as reported,Elos investment paragraph,Not a total cost denominator for all recovered tonnage
+AV1-009,N1,Natura &Co,postconsumer_packaging_recovered,2024,15385,tonnes,Natura and Avon as reported,Elos final paragraph,Not equivalent to design recyclability or recycled content
+AV1-010,S1,SERNAC,environmental_information_important,2025,90.3,percent,Nonprobability survey n=616; valid item bases not reconstructed,p.1,Not representative of Chile
+AV1-011,S1,SERNAC,sufficient_environmental_information,2025,14.2,percent,Nonprobability survey n=616; valid item bases not reconstructed,p.1,Not representative of Chile
+AV1-012,S1,SERNAC,information_unclear,2025,68.3,percent,Nonprobability survey n=616; valid item bases not reconstructed,p.2,Not representative of Chile
+AV1-013,S1,SERNAC,brand_information_unreliable,2025,64,percent,Nonprobability survey n=616; valid item bases not reconstructed,p.2,Not representative of Chile
+AV1-014,S1,SERNAC,brands_not_transparent,2025,87.2,percent,Nonprobability survey n=616; valid item bases not reconstructed,p.2,Not representative of Chile
+AV1-015,M1,NYU Stern CSB,sustainability_marketed_share,2025,25.4,percent,US categories; branded products,pp.3 and 6,Marketing classification not independently verified environmental performance
+AV1-016,M1,NYU Stern CSB,sustainability_marketed_5yr_cagr,2025,10.9,percent_per_year,US categories; branded products,pp.3 and 8,Year labels report endpoint; five-year window as reported
+AV1-017,M1,NYU Stern CSB,conventional_5yr_cagr,2025,2.2,percent_per_year,US categories; branded products,pp.3 and 8,Year labels report endpoint; five-year window as reported
+AV1-018,M1,NYU Stern CSB,sustainability_marketed_price_premium,2024,26.6,percent,US categories; branded products,pp.11-12,Weighted observed premium; not causal willingness to pay

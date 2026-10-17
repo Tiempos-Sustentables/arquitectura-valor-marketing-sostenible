@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite el manuscrito y las fuentes originales; no atribuya validación causal."
+type: article
+title: "Arquitectura de Valor para el marketing sostenible: síntesis documental sobre desempeño circular, evidencia corporativa y consumo, con foco en Chile y proyección latinoamericana"
+authors:
+  - family-names: "Blasco Valencia"
+    given-names: "Jesús Patricio"
+    affiliation: "Tiempos Sustentables"
+version: "2.1"
+repository-code: "https://github.com/Tiempos-Sustentables/arquitectura-valor-marketing-sostenible"
+abstract: "Síntesis documental con 18 registros secundarios. Sin panel econométrico ni experimento ejecutado. DOI pendiente."

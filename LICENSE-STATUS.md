@@ -1,0 +1,1 @@
+No se ha asignado una licencia de redistribución. No se presumen permisos sobre materiales de terceros. El acceso público y la atribución no sustituyen una licencia. Confirmar condiciones antes de hacer público el repositorio.
