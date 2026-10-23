@@ -1,18 +1,16 @@
 # Arquitectura de Valor — marketing sostenible
 
-Autor: Jesús Patricio Blasco Valencia. Tiempos Sustentables. Versión 2.2, corte documental 2026-10-23.
+Autor: Jesús Patricio Blasco Valencia. Tiempos Sustentables. Versión documental 2.3 propuesta, corte 2026-10-23.
 
-Investigación conceptual-aplicada con revisión focalizada y extracción secundaria. Sin financiamiento externo específico.
+Investigación conceptual-aplicada con revisión focalizada y extracción secundaria. No es revisión sistemática exhaustiva ni validación causal. AV-EXP-01 no ha sido ejecutado. No se declara DOI nuevo, revisión por pares, certificación ni resultados de campo.
 
-## Estado de esta carga
+## Evidencia y control de versiones
 
-Incluye 18 registros publicados, fuentes, metadatos y documentación de adjuntos. Se incorpora el primer módulo del **ESG Trends Radar 2026-10**, con 9 fuentes académicas únicas, dataset de tendencia y ficha ejecutiva.
+Se conservan 18 registros secundarios en data/extracted_observations.csv. El inventario académico del Radar contiene nueve registros; uno está excluido temporalmente, por lo que no corresponde anunciar nueve fuentes analizadas. El inventario requiere verificación bibliográfica completa antes de declararlo validado. El duplicado Dialnet 10304444 se conserva solo como referencia de trazabilidad.
 
-El artículo asociado a Dialnet 10304444 —Suescum Coelho et al. (2025)— fue cargado dos veces y se excluye temporalmente del set final de análisis. Permanece registrado en `metadata/esg_trends_radar_sources.json` para trazabilidad.
+El Índice Radar 74/100 es una valoración editorial provisional, no un indicador empírico de desempeño empresarial. Impulso 80, Materialidad 82, Evidencia 72, Urgencia 68 y Relevancia LATAM 70. Sus puntuaciones requieren rúbrica y justificación reproducibles.
 
-No es un panel financiero, microdatos de consumidores ni validación causal. El experimento AV-EXP-01 no se ha ejecutado. No hay DOI nuevo, revisión por pares, certificación ni indexación declarados.
-
-## Archivos
+## Archivos originales y módulo Radar
 
 - data/extracted_observations.csv
 - data/esg_trends_radar_2026-10.csv
@@ -25,10 +23,8 @@ No es un panel financiero, microdatos de consumidores ni validación causal. El 
 - docs/esg_trends_radar_2026-10.md
 - LICENSE-STATUS.md
 
-## ESG Trends Radar 2026-10
+## Corrección metodológica vigente
 
-Tendencia: **La sostenibilidad corporativa migra de disclosure voluntario a obligaciones verificables de gobernanza, cadena de valor y clima**.
+Consultar docs/AV-EXP-01_protocolo_corregido.md y docs/ERRATA_2026-10-23.md. Estos documentos corrigen las interpretaciones previas; no modifican observaciones históricas. El artículo-report es un preprint metodológico y el borrador WordPress 10186 no debe presentarse como validación empírica. La publicación pública y la visibilidad del repositorio requieren revisión separada.
 
-Índice Radar: **74/100 — Alto**.
-
-No agregar porcentajes entre fuentes ni equiparar contenido reciclado, reciclabilidad y recuperación. Confirmar derechos antes de redistribuir originales de terceros. El repositorio permanece privado durante preparación.
+No agregar porcentajes entre fuentes no armonizadas. No equiparar contenido reciclado, reciclabilidad y recuperación. Confirmar derechos antes de redistribuir originales de terceros.
