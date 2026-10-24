@@ -1,16 +1,22 @@
 # Arquitectura de Valor — marketing sostenible
 
-Autor: Jesús Patricio Blasco Valencia. Tiempos Sustentables. Versión documental 2.3 propuesta, corte 2026-10-23.
+Autor: Jesús Patricio Blasco Valencia. Tiempos Sustentables. Corte documental: 2026-10-23.
 
-Investigación conceptual-aplicada con revisión focalizada y extracción secundaria. No es revisión sistemática exhaustiva ni validación causal. AV-EXP-01 no ha sido ejecutado. No se declara DOI nuevo, revisión por pares, certificación ni resultados de campo.
+© Tiempos Sustentables, 2026. Documentación y obra original bajo CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
-## Evidencia y control de versiones
+## Estado de evidencia
 
-Se conservan 18 registros secundarios en data/extracted_observations.csv. El inventario académico del Radar contiene nueve registros; uno está excluido temporalmente, por lo que no corresponde anunciar nueve fuentes analizadas. El inventario requiere verificación bibliográfica completa antes de declararlo validado. El duplicado Dialnet 10304444 se conserva solo como referencia de trazabilidad.
+Investigación conceptual-aplicada y revisión focalizada. AV-EXP-01 es un protocolo propuesto de tres brazos; no se ha ejecutado. No se declara validación causal, revisión por pares, DOI asignado ni resultados de campo.
 
-El Índice Radar 74/100 es una valoración editorial provisional, no un indicador empírico de desempeño empresarial. Impulso 80, Materialidad 82, Evidencia 72, Urgencia 68 y Relevancia LATAM 70. Sus puntuaciones requieren rúbrica y justificación reproducibles.
+Se conservan 18 observaciones secundarias. El inventario académico contiene nueve registros, uno excluido temporalmente por duplicidad; no equivale a nueve fuentes analizadas. La validación bibliográfica integral sigue pendiente. Los materiales y derechos de terceros se rigen por sus propios términos.
 
-## Archivos originales y módulo Radar
+## Índice Radar corregido
+
+Valor editorial provisional: 75,6/100; presentación redondeada: 76/100; nivel Alto. Cálculo: 0,25×80 + 0,25×82 + 0,20×72 + 0,15×68 + 0,15×70 = 75,6.
+
+El 74/100 anterior era un error aritmético. Los componentes no cambian. La puntuación sigue pendiente de rúbrica reproducible y no mide desempeño empresarial. Ver docs/ERRATA_RADAR_75_6.md.
+
+## Archivos activos
 
 - data/extracted_observations.csv
 - data/esg_trends_radar_2026-10.csv
@@ -18,13 +24,16 @@ El Índice Radar 74/100 es una valoración editorial provisional, no un indicado
 - metadata/sources.json
 - metadata/esg_trends_radar_sources.json
 - CITATION.cff
+- LICENSE-STATUS.md
 - docs/data_dictionary.md
 - docs/attachments.md
 - docs/esg_trends_radar_2026-10.md
-- LICENSE-STATUS.md
+- docs/AV-EXP-01_protocolo_corregido.md
+- docs/ERRATA_2026-10-23.md
+- docs/ERRATA_RADAR_75_6.md
 
-## Corrección metodológica vigente
+## Preparación de depósito
 
-Consultar docs/AV-EXP-01_protocolo_corregido.md y docs/ERRATA_2026-10-23.md. Estos documentos corrigen las interpretaciones previas; no modifican observaciones históricas. El artículo-report es un preprint metodológico y el borrador WordPress 10186 no debe presentarse como validación empírica. La publicación pública y la visibilidad del repositorio requieren revisión separada.
+El artículo-report v1.1 y su PDF final deben incorporarse y verificarse antes del lanzamiento. No se declara que el PDF esté cargado. El repositorio sigue privado; cambiar su visibilidad, habilitar Zenodo y crear un release requieren pasos separados. No se reutiliza el DOI de otra publicación.
 
-No agregar porcentajes entre fuentes no armonizadas. No equiparar contenido reciclado, reciclabilidad y recuperación. Confirmar derechos antes de redistribuir originales de terceros.
+No promediar porcentajes entre fuentes no armonizadas. No equiparar contenido reciclado, reciclabilidad y recuperación. Conservar versiones históricas y sus erratas.

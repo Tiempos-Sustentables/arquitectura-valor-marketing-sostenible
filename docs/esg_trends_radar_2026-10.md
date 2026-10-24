@@ -1,50 +1,31 @@
 # ESG Trends Radar — Octubre 2026
 
-## Tendencia
+© Tiempos Sustentables, 2026. CC BY 4.0.
 
-**La sostenibilidad corporativa migra de disclosure voluntario a obligaciones verificables de gobernanza, cadena de valor y clima.**
+## Tendencia y decisión
 
-**Índice Radar: 74/100 — Nivel: Alto.**
+Exigir evidencia del atributo antes de comunicar y evaluar el desempeño antes de escalar. Ejes: regulación y cumplimiento; economía circular; cadenas de valor. El alcance de cada obligación debe verificarse por empresa, mercado y producto.
 
-Cálculo: (0,25 × 80) + (0,25 × 82) + (0,20 × 72) + (0,15 × 68) + (0,15 × 70) = 74.
+## Índice corregido
 
-## Qué está ocurriendo
+75,6/100 (76/100 redondeado), Alto. Componentes: Impulso 80×0,25=20; Materialidad 82×0,25=20,5; Evidencia 72×0,20=14,4; Urgencia 68×0,15=10,2; Relevancia LATAM 70×0,15=10,5. Suma 75,6. El 74 anterior se conserva únicamente como error histórico.
 
-La sostenibilidad corporativa está pasando de reportes voluntarios y comunicaciones reputacionales hacia exigencias verificables sobre doble materialidad, cadena de valor, diligencia debida, reducción de emisiones y gobernanza. La CSRD y las ESRS elevan la información de sostenibilidad al mismo estatus operativo que la información financiera, mientras que la CSDDD y los litigios climáticos amplían la exposición hacia proveedores y operaciones transnacionales. [S04][S06][S07]
+Es una valoración editorial provisional. La corrección matemática no valida la selección de puntuaciones, cuya rúbrica reproducible está pendiente.
 
-## Por qué importa
+## Qué ocurre y por qué importa
 
-La materialidad ya no se limita al riesgo financiero inmediato: incluye impactos reales o potenciales sobre personas, medioambiente y cadena de valor. Las empresas enfrentan efectos potenciales sobre acceso a financiamiento, reputación, costos de cumplimiento, continuidad de suministro y licencia social para operar. [S01][S04][S07]
+El proyecto propone conectar información ESG con presupuesto, responsables, trazabilidad, controles y decisiones. Los documentos regulatorios y académicos del inventario no acreditan por sí solos resultados del piloto ni que todas las empresas tengan igual exposición.
 
 ## Quiénes están expuestos
 
-- Empresas exportadoras o con clientes en la Unión Europea.
-- Compañías con cadenas de suministro transnacionales o proveedores en jurisdicciones con menor fiscalización.
-- Emisores y empresas que acceden a financiamiento sostenible.
-- Sectores intensivos en carbono, materiales, agua, residuos y biodiversidad.
-- PYMES integradas como proveedores de grandes empresas obligadas. [S04][S06][S07]
+Caso propuesto: productores y proveedores de consumo masivo con productos envasados en Chile. Evaluar obligaciones, uso, materiales, canal y mercados específicos. No extrapolar automáticamente obligaciones europeas a empresas chilenas.
 
-## Señales de vigilancia
+## Vigilancia y decisiones
 
-- Avances de transposición y aplicación de CSRD, ESRS y CSDDD.
-- Requisitos climáticos y de debida diligencia en contratos de grandes compradores.
-- Litigios climáticos y demandas asociadas a cadenas de suministro.
-- Fiscalización de afirmaciones ambientales y riesgo de greenwashing.
-- Adopción de trazabilidad digital, IoT, blockchain y analítica de datos en cadenas circulares. [S05][S07][S09]
+Vigilar proveedores, composición PCR, fallas, costos, tarifas, stock, mensajes y quejas. A 30 días: seleccionar caso y línea base. A 90 días: homologación y expediente técnico-legal. A 180 días: cerrar diseño, muestra y análisis antes de iniciar. Son plazos propuestos, no metas ya cumplidas.
 
-## Decisiones corporativas
+## Dataset, fuentes y límites
 
-- **30 días:** inventariar clientes, mercados, contratos y obligaciones ESG directas o indirectas.
-- **90 días:** mapear proveedores críticos, emisiones relevantes, datos disponibles y brechas de evidencia.
-- **180 días:** implementar tablero de gobernanza con métricas verificables, responsables, controles, protocolo de respuesta y revisión de afirmaciones públicas.
+Consultar data/esg_trends_radar_2026-10.csv y metadata/esg_trends_radar_sources.json. Nueve registros bibliográficos, uno excluido temporalmente; verificación bibliográfica integral pendiente. No se afirma una revisión sistemática ni validación causal. Protocolo: docs/AV-EXP-01_protocolo_corregido.md.
 
-## Fuentes
-
-Ver `metadata/esg_trends_radar_sources.json`. El set incluye 9 artículos únicos; el registro Dialnet 10304444 se excluye temporalmente del análisis por duplicidad de archivo. [S08]
-
-## Limitaciones
-
-- No se trata de evidencia causal entre ESG y desempeño financiero.
-- Varias fuentes son revisiones de literatura o análisis jurídicos, no mediciones primarias latinoamericanas.
-- La evidencia regional debe reforzarse con datos regulatorios, empresariales y de mercado de Chile y América Latina.
-- Fecha de análisis: 23 de octubre de 2026.
+El conjunto activo se interpreta con docs/ERRATA_2026-10-23.md y docs/ERRATA_RADAR_75_6.md. Fecha de actualización: 2026-10-23.
