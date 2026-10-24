@@ -1,332 +1,235 @@
-# Arquitectura de Valor Sostenible: un marco integrado para validar resultados económicos, ambientales y sociales en América Latina
+# Arquitectura de Valor Sostenible: marco metodológico de ESG Trends Radar y protocolo propuesto AV-EXP-01
 
-**Versión:** 1.0 — Borrador para revisión  
-**Autor:** Jesús Patricio Blasco Valencia  
-**Organización:** Tiempos Sustentables  
-**Fecha:** 23 de octubre de 2026  
-**Estado:** Documento de trabajo. No constituye evidencia causal validada ni resultados de un experimento ejecutado.
+Versión 1.2 — Manuscrito corregido para revisión editorial
+Autor: Jesús Patricio Blasco Valencia
+ORCID: https://orcid.org/0009-0002-4839-104X
+Publicación contenedora: Tiempos Sustentables
+Plataforma de inteligencia en sostenibilidad corporativa y revista de publicación seriada
+ISSN 3087-3096 · ISSN-L 3087-3096 · En línea · Chile
+Fecha de revisión: 23 de octubre de 2026
+© Tiempos Sustentables, 2026 · CC BY 4.0
+Licencia: https://creativecommons.org/licenses/by/4.0/
+Estado: artículo-report metodológico / preprint. AV-EXP-01 no ejecutado; sin resultados de campo ni validación causal. Sin DOI asignado ni revisión por pares declarada.
 
----
+## Resumen y abstract
 
-## Resumen
+Este artículo-report propone integrar la definición de resultados económicos, ambientales y sociales con la doble materialidad, tres capacidades organizacionales, la operación circular, la evidencia de atributos y el control de alegaciones. Cabeza Fría reúne viabilidad económica y riesgo; Corazón Activo, utilidad, asequibilidad, accesibilidad y comprensión; Manos Firmes, ejecución, trazabilidad, controles e incentivos. El objetivo es formular un modelo evaluable, no demostrar una eficacia ya obtenida.
 
-Este artículo-report propone un marco integrado —la **Arquitectura de Valor Sostenible**— para conectar la triple dimensión de la sostenibilidad con la priorización de materialidad, la operación física de economía circular, el control de alegaciones ambientales y el comportamiento del consumidor.
+Se presenta AV-EXP-01 como propuesta de ensayo de tres brazos para un SKU de consumo masivo en Chile: referencia documentada, envase PCR homologado sin promoción adicional y el mismo envase con una alegación específica respaldada. La comparación incremental de comunicación se distingue del cambio físico y del paquete completo. No se propone una alegación deliberadamente no verificada como tratamiento de mercado.
 
-El modelo articula tres capacidades organizacionales:
+El método es revisión documental focalizada y diseño prospectivo. La encuesta SERNAC 2025 se usa como contexto descriptivo no representativo; las publicaciones del autor como antecedentes conceptuales, no validación independiente. El Índice Radar se corrige matemáticamente a 75,6/100, o 76 redondeado, nivel Alto, conservando su carácter editorial provisional. La publicación del protocolo permite escrutinio; no equivale a validación empírica del ecosistema.
 
-- **Cabeza Fría:** diagnóstico, economía unitaria, riesgo, presupuesto, inversión y diseño del retorno.
-- **Corazón Activo:** propuesta de valor, utilidad, asequibilidad, accesibilidad, impacto relevante y comunicación comprensible.
-- **Manos Firmes:** ejecución, trazabilidad, responsables, controles, incentivos y evidencia disponible para revisión.
+Abstract: This methodological report links economic, environmental and social outcomes with double materiality, organizational capabilities, circular operations and substantiated communication. It proposes a three-arm field evaluation in Chile to distinguish a physical packaging intervention from additional communication. No field results or causal validation are reported. The historical Radar arithmetic is corrected to 75.6/100; the underlying scores remain provisional editorial judgments. A local baseline, operational qualification, sample-size planning and a preregistered analysis are required before implementation.
 
-El marco se propone como un sistema de validación progresiva: primero conceptual, luego mediante caso aplicado y finalmente mediante un diseño experimental o cuasiexperimental. Su propósito es transformar compromisos de sostenibilidad en resultados observables —compra, recompra, margen, costos, flujos materiales, impactos sociales y cumplimiento— sin confundir declaración pública con desempeño verificado.
+Palabras clave: Arquitectura de Valor; doble materialidad; triple bottom line; economía circular; PCR; Ley REP; alegaciones ambientales; experimento de campo. JEL orientativos: M31, Q01, Q56.
 
-**Palabras clave:** Arquitectura de Valor, sostenibilidad corporativa, triple bottom line, doble materialidad, economía circular, ESG, trazabilidad, comportamiento del consumidor, América Latina.
+## 1. Problema, propósito y método
 
----
+La pregunta es qué atributo existe, qué desempeño modifica, cómo se respalda y qué resultados puede generar bajo restricciones de precio, función, disponibilidad y conveniencia. No se parte de que todo producto comunicado como sostenible venda más o tenga menor impacto total.
 
-## 1. Introducción
+Pregunta de investigación: ¿qué cambia en compra, contribución económica, flujos materiales y resultados sociales al modificar un envase y comunicar un atributo específico respaldado, frente a una referencia documentada?
 
-La sostenibilidad corporativa ha pasado de ser una función reputacional o de cumplimiento voluntario a un sistema de decisiones con consecuencias financieras, operativas, regulatorias y comerciales. La evidencia académica y regulatoria revisada muestra una transición hacia exigencias de información verificable, gestión de cadena de valor, diligencia debida y reducción de emisiones.
+Se revisaron documentos del proyecto, el protocolo corregido de AV-EXP-01 y fuentes primarias de SERNAC y del marco REP. Se contrastó la consistencia del diseño con literatura metodológica, se recalcularon el Radar y escenarios de muestra y se separaron datos, hipótesis y metas. Es una revisión focalizada, no una búsqueda sistemática exhaustiva ni metaanálisis. La guía EFRAG IG 1 se usa para el concepto de doble materialidad, no como actualización de obligaciones europeas para empresas chilenas. [R1-R5]
 
-En este contexto, muchas organizaciones enfrentan una brecha recurrente: declaran compromisos sostenibles, pero no logran demostrar cómo esos compromisos se traducen en decisiones de inversión, cambios operativos, evidencia auditable y resultados medibles para el negocio y sus grupos de interés.
+Se conserva la trazabilidad del inventario previo de nueve registros académicos, uno excluido temporalmente; no se anuncia como nueve estudios analizados ni como bibliografía integralmente validada. Las 18 observaciones secundarias del repositorio no son microdatos del piloto. Los benchmarks de NYU, Natura y Unilever no sustituyen la línea base local ni identifican efectos causales de esta propuesta.
 
-Este documento propone la **Arquitectura de Valor Sostenible** como respuesta a esa brecha. El marco integra la lógica de triple bottom line —económica, ambiental y social— con la priorización de materialidad y tres capacidades organizacionales complementarias.
+Niveles de evidencia: alta trazabilidad documental para textos primarios con alcance identificable; evidencia contextual con límites para encuestas y reportes; evidencia insuficiente para eficacia causal de AV y calibración del Radar. No se promedian normas, encuestas y opiniones como si midieran lo mismo.
 
-### 1.1 Pregunta de investigación
+## 2. Modelo integrado y definiciones
 
-¿Bajo qué condiciones la integración de triple materialidad, economía circular, control de alegaciones ambientales y comportamiento del consumidor genera resultados observables y verificables en términos económicos, ambientales y sociales?
+TBL clasifica resultados económicos, ambientales y sociales. Doble materialidad considera los impactos de la organización sobre personas y ambiente y su exposición financiera a riesgos y oportunidades. No se denomina triple materialidad a las tres dimensiones TBL. Una cuestión puede ser material por una perspectiva o por ambas. EFRAG IG 1 es orientación no autoritativa relativa a ESRS de 2023. [R4]
 
-### 1.2 Objetivos
+| Etapa | Contenido y decisión |
+|---|---|
+| Resultados TBL | Definir resultados buscados y efectos adversos que no deben ocultarse. |
+| Priorización y materialidad | Identificar impactos, exposición financiera, grupos afectados y horizontes. |
+| Cabeza Fría | Diagnóstico, economía unitaria, riesgo, presupuesto, inversión y evaluación del retorno. |
+| Corazón Activo | Utilidad, asequibilidad, accesibilidad, impacto relevante y comunicación comprensible. |
+| Manos Firmes | Ejecución, trazabilidad, responsables, controles, incentivos y evidencia revisable. |
+| Operación circular | Ecodiseño, duración, reparación, reutilización, recuperación y valorización según el producto. |
+| Evidencia del atributo | Qué mejora, cuánto, frente a qué referencia, en qué periodo y con qué incertidumbre. |
+| Control de alegaciones | Evidencia técnica, revisión legal y comunicación precisa y actualizable. |
+| Consumidor | Comprensión, confianza y elección, condicionadas por precio, disponibilidad y conveniencia. |
+| Resultados y retorno | Compra, contribución, flujos e incidentes retroalimentan estrategia y operación. |
 
-1. Formalizar un marco integrado de Arquitectura de Valor Sostenible.
-2. Definir indicadores, fuentes de evidencia y criterios de validación.
-3. Establecer un protocolo de validación progresiva para empresas en Chile y América Latina.
-4. Distinguir entre aspiración estratégica, desempeño reportado y resultado verificado.
-5. Identificar limitaciones, supuestos y riesgos de interpretación.
+Las flechas describen procesos propuestos, no relaciones causales ya demostradas. Contenido reciclado, reciclabilidad de diseño y recuperación efectiva son magnitudes diferentes. Una compra no demuestra menor impacto ambiental; confianza no equivale a impacto social; el QR es acceso a información, no certificación.
 
----
+## 3. Proposiciones, no resultados
 
-## 2. Marco conceptual
+P1. La priorización de impactos y exposición financiera puede mejorar la selección y documentación de iniciativas; requiere indicadores de adopción y resultados.
 
-### 2.1 Triple Bottom Line
+P2. La coordinación de las tres capacidades puede reducir brechas de ejecución y evidencia; no se da por probada por su formulación.
 
-El punto de partida es la triple dimensión de la sostenibilidad:
+P3. Un cambio físico puede modificar costos, mermas, funcionalidad y uso de materiales; dirección y magnitud se medirán.
 
-- **Económica:** creación de valor, rentabilidad, eficiencia, inversión, empleo y resiliencia financiera.
-- **Ambiental:** emisiones, energía, agua, residuos, biodiversidad, materiales y circularidad.
-- **Social:** derechos, condiciones laborales, comunidades, accesibilidad, equidad y confianza.
+P4. Una comunicación específica respaldada puede modificar comprensión, confianza y compra; ese efecto debe contrastarse, no suponerse.
 
-La sostenibilidad no debe tratarse como una suma de iniciativas aisladas, sino como un sistema de decisiones con interdependencias entre resultados financieros, ambientales y sociales.
+P5. Precio, acceso y conveniencia condicionan la adopción. No se interpreta una prima observada en otro mercado como disposición garantizada a pagar en Chile.
 
-### 2.2 Doble materialidad
+P6. La retroalimentación documentada puede orientar mejora organizacional; el ensayo de un SKU no validará por sí solo todas las capacidades ni el conjunto TBL.
 
-La doble materialidad exige analizar dos direcciones:
+## 4. Protocolo AV-EXP-01 de tres brazos
 
-1. **Impacto de la organización sobre el entorno:** emisiones, residuos, derechos humanos, comunidades y ecosistemas.
-2. **Exposición financiera de la organización:** riesgos climáticos, regulatorios, de cadena de suministro, reputacionales y de acceso a capital.
+Caso sugerido: empresa de consumo masivo con productos envasados en Chile y un SKU de cuidado del hogar o higiene personal. Empresa, canal, material, formulación PCR, tamaño y periodo quedan por definir. No se impone un 50% de PCR sin homologación técnica, función y requisitos de seguridad del uso previsto. PCR significa reciclado posconsumo.
 
-Esta doble lectura permite priorizar iniciativas según su relevancia real, no solo según su visibilidad comunicacional.
-
-### 2.3 Arquitectura de Valor
-
-La Arquitectura de Valor Sostenible se organiza en tres capacidades:
-
-| Capacidad | Pregunta central | Componentes |
+| Brazo | Oferta física | Información |
 |---|---|---|
-| **Cabeza Fría** | ¿Es viable y rentable? | Diagnóstico, economía unitaria, riesgo, presupuesto, inversión y retorno |
-| **Corazón Activo** | ¿Genera valor percibido? | Utilidad, asequibilidad, accesibilidad, impacto relevante y comunicación |
-| **Manos Firmes** | ¿Se ejecuta y se puede verificar? | Ejecución, trazabilidad, responsables, controles, incentivos y evidencia |
+| T0 | Envase actual documentado, no necesariamente 0% PCR | Información habitual revisada y toda la información obligatoria. |
+| T1 | Envase PCR homologado y trazable | Sin destacar promocionalmente el nuevo atributo. |
+| T2 | Mismo envase y especificación de T1 | Alegación específica respaldada y acceso a evidencia. |
 
-### 2.4 Economía circular
+Contrastes: T1-T0 evalúa el paquete físico ofrecido, incluidos cambios perceptibles; T2-T1 evalúa comunicación adicional; T2-T0 evalúa el conjunto. Se propone T2-T1 sobre compra como contraste confirmatorio primario. Los restantes serán secundarios salvo modificación registrada antes de observar resultados. No es un factorial 2x2 ni permite interpretar una interacción factorial. La literatura de diseños factoriales ilustra la necesidad de definir combinaciones y estimandos, pero no valida este piloto. [R5]
 
-La operación física se expresa mediante ecodiseño, duración, reparación, reutilización, recuperación, valorización y trazabilidad REP.
+En digital, considerar asignación persistente por usuario elegible. En retail físico, asignación por tienda o tienda-periodo con control de exposición cruzada y arrastre. Definir elegibilidad antes de asignar. No mezclar canales y unidades de aleatorización sin adaptar potencia e inferencia.
 
-Es fundamental no equiparar conceptos distintos:
+Establecer una unidad funcional común: misma cantidad de producto útil con función equivalente. Ensayar cierres, fugas, dosificación, compatibilidad, almacenamiento y variabilidad de lotes. Registrar mermas, fallas y cambios de proveedor. Mantener o balancear precio, promociones, stock, ubicación y exposición; no introducir primas de precio como controles sin diseñarlas explícitamente.
 
-- **Contenido reciclado:** proporción de material reciclado incorporado.
-- **Reciclabilidad:** capacidad técnica de un producto o embalaje para ser reciclado.
-- **Recuperación:** material efectivamente recuperado al final de su vida útil.
-- **Valorización:** aprovechamiento de residuos como recurso.
+## 5. Resultados, estimandos y análisis
 
-Un producto puede ser reciclable y, aun así, no ser efectivamente recuperado en un territorio o sistema de gestión determinado.
+Resultado comercial primario: compra del SKU por elegible asignado dentro de una ventana fijada antes del estudio. El denominador incluye no compradores. No se calcula conversión únicamente entre transacciones realizadas ni entre quienes escanean el QR.
 
-### 2.5 Control de alegaciones ambientales
+Estimando primario propuesto: E[Y(T2)-Y(T1)], donde Y=1 si compra y 0 en caso contrario. Reportar diferencia absoluta en puntos porcentuales, incertidumbre y denominadores. Analizar por intención de tratar, respetando bloques y conglomerados. Si se usan modelos logit/probit, informar probabilidades predichas y contrastes marginales; no equiparar coeficientes a cambios en probabilidades.
 
-Toda afirmación ambiental debe pasar por un circuito de validación:
+Resultado económico clave: contribución por elegible asignado. Numerador: ingresos netos menos costos variables atribuibles, con impuestos, descuentos, logística, devoluciones, mermas, comunicación y tarifa REP explicitados. Dividir por todos los elegibles del brazo. Presentar CAPEX y costos fijos separadamente y reconciliar margen bruto con contribución.
 
-**Evidencia → revisión técnica y legal → comunicación.**
+Secundarios: unidades, fallas, devoluciones, comprensión y confianza; recompra en una ventana de 60 días cuando sea pertinente al ciclo de consumo. La recompra entre compradores iniciales puede estar afectada por selección posterior a la asignación; no interpretarla automáticamente como efecto causal comparable entre los mismos individuos.
 
-Esto reduce el riesgo de greenwashing, protege la credibilidad de la marca y mejora la calidad de la información disponible para consumidores, inversionistas y reguladores.
+Preespecificar: covariables previas, faltantes, exclusiones, duplicados, fraude, quiebres de stock, contaminación, comparaciones múltiples, reglas de parada y análisis de sensibilidad. No ajustar por variables posteriores al tratamiento para el contraste primario sin justificar el estimando. La encuesta voluntaria poscompra es un instrumento secundario con sus propios sesgos.
 
-### 2.6 Comportamiento del consumidor
+Acordar un umbral económico y tolerancias funcionales antes del piloto. Ausencia de significancia no demuestra equivalencia o ausencia de deterioro. Para afirmar no inferioridad, justificar su margen y diseñar la potencia. Resultados negativos e imprecisos también deben informarse.
 
-El atributo sostenible no opera de manera aislada. Su efecto depende de:
+## 6. Tamaño muestral y escenarios reproducibles
 
-- Comprensión del atributo.
-- Confianza en la afirmación.
-- Valor percibido.
-- Precio.
-- Disponibilidad.
-- Conveniencia.
-- Contexto de compra.
+No se mantiene la garantía de 1.800 transacciones por celda ni 7.200 en total. Falta medir conversión base, definir contraste, efecto mínimo económicamente relevante, asignación, conglomeración, seguimiento y multiplicidad.
 
-Por ello, la validación debe considerar tanto la intención declarada como el comportamiento observable.
+Los siguientes escenarios son cálculos ilustrativos para dos proporciones independientes, asignación equilibrada, alfa bilateral 0,05, potencia objetivo 80% y aumento absoluto de 2,5 puntos porcentuales. No dimensionan el ensayo de tres brazos ni incluyen agrupamiento, pérdidas o comparaciones múltiples.
 
----
+| Base hipotética | Alternativa | Elegibles aproximados por brazo |
+|---|---|---|
+| 5% | 7,5% | 1.471 |
+| 10% | 12,5% | 2.507 |
+| 20% | 22,5% | 4.202 |
+| 50% | 52,5% | 6.275 |
 
-## 3. Modelo hipotético
+Aproximación normal: n = techo{[z(1-alfa/2) sqrt(2 pmedia (1-pmedia)) + z(1-beta) sqrt(p0(1-p0)+p1(1-p1))]^2 / (p1-p0)^2}. Es una aproximación de planificación, no garantía de potencia exacta.
 
-El modelo propone la siguiente secuencia:
+Si la asignación es por tiendas, calcular o simular el tamaño con número de conglomerados, tamaños y correlación pertinentes. La muestra definitiva permanece abierta; ello limita ejecución, no la publicación transparente del diseño propuesto.
 
-**TBL → Priorización y materialidad → Arquitectura de Valor → Operación física de economía circular → Desempeño y evidencia del atributo → Control de alegaciones → Comportamiento del consumidor → Resultados observables → Retroalimentación estratégica.**
+## 7. Matriz de indicadores propuestos
 
-### 3.1 Hipótesis
+Todos los valores de línea base y metas del piloto están pendientes de medición. No se asigna evidencia alta a un indicador solo porque se proponga. Ámbito: caso por seleccionar en Chile; la fecha de consulta y enlace del dato interno deberán registrarse al obtenerlo. Cero observado, faltante y no aplicable son estados diferentes.
 
-| Hipótesis | Enunciado |
-|---|---|
-| **H1** | La priorización basada en doble materialidad mejora la selección de iniciativas ESG con mayor relevancia estratégica y financiera. |
-| **H2** | La integración de Cabeza Fría, Corazón Activo y Manos Firmes reduce la brecha entre estrategia, ejecución y evidencia. |
-| **H3** | El ecodiseño, la durabilidad, la reparación, la reutilización y la trazabilidad mejoran los flujos materiales y el desempeño ambiental. |
-| **H4** | El control previo de alegaciones ambientales reduce el riesgo de greenwashing y aumenta la credibilidad organizacional. |
-| **H5** | La comprensión, confianza y valor percibido moderan la relación entre atributo sostenible y comportamiento de compra. |
-| **H6** | Los resultados observables retroalimentan la estrategia y la operación, generando aprendizaje organizacional. |
+| ID y dimensión | Métrica / unidad | Fuente primaria prevista y periodo | Método o límite |
+|---|---|---|---|
+| E01 económica | Compradores/elegibles, % | Asignación y ventas; ventana fijada | Incluye no compradores; respetar agrupamiento. |
+| E02 económica | Contribución, CLP por elegible | ERP y costos; ventana primaria | Definir ingresos netos, costos y reparto de gastos. |
+| E03 económica | Implementación e inversión, CLP | Facturas y presupuesto; piloto | Separar costos fijos, variables y CAPEX. |
+| A01 ambiental | Resina virgen, g por unidad funcional | Balance y lotes; por lote | Declarar componentes y función equivalente. |
+| A02 ambiental | Contenido PCR, % en masa | Proveedor, formulación y lotes | Denominador del mismo componente; no es recuperación. |
+| A03 ambiental | Merma, % en masa | Registros de línea; lote/turno | Definir recirculación y evitar doble conteo. |
+| A04 ambiental | Valorización acreditada, t | Sistema y gestores; periodo declarado | No atribuir masa al SKU si no es trazable. |
+| S01 social | Comprensión correcta, % | Instrumento definido; test/piloto | Poscompra voluntaria no representa todos los elegibles. |
+| S02 social | Acceso a información, % y barreras | Pruebas con usuarios; previo/piloto | No depender exclusivamente de QR. |
+| S03 social | Precio total, CLP por unidad funcional | Precios/costo de uso; semanal | No inferir carga de ingreso sin datos adecuados. |
+| S04 social | Condiciones de actores, hallazgos y cobertura | Revisión/entrevistas protegidas | No equivale a efecto causal en medios de vida. |
+| G01 gobernanza | Claims revisados/claims vigentes, % | Expediente y firmas; previo/cambios | Si no hay claims, definir no aplicable. |
+| G02 gobernanza | Incidentes, conteo y gravedad | Quejas y fallas; continuo | Ausencia de reportes no prueba ausencia de incidentes. |
 
----
+Cada registro deberá declarar valor, unidad, periodo, geografía, perímetro, fuente, enlace o localizador protegido, fecha de consulta, responsable, método, incertidumbre y estado de evidencia. Definir accesos, retención y protección de datos con revisión legal; no publicar tickets ni cuentas identificables.
 
-## 4. Metodología de validación
+## 8. Evidencia contextual y límites
 
-El marco se valida en tres niveles progresivos.
+SERNAC: informe agosto de 2025, encuesta junio de 2025, muestra no probabilística de 616 personas. Instrumento de 35 preguntas; análisis descriptivo; reconoce autoselección y deseabilidad social. No se identifica como muestra urbana ni como censo o estimación representativa nacional. [R1, pp. 1-2]
 
-### 4.1 Nivel 1: validación conceptual
+| Indicador | Valor y unidad | Periodo y alcance | Evidencia y límite |
+|---|---|---|---|
+| Información ambiental importante | 90,3% | Junio 2025; participantes en Chile | Fuente primaria R1; descriptivo no probabilístico. |
+| Información suficiente | 14,2% | Mismo estudio | No reconstruir conteos sin base válida del ítem. |
+| Información poco o nada clara | 68,3% | Mismo estudio | Percepción, no prueba de comprensión del SKU. |
+| Información de marcas poco o nada confiable | 64,0% | Mismo estudio | No es probabilidad de incumplimiento o denuncia. |
+| Marcas poco o nada transparentes | 87,2% | Mismo estudio | No extrapolar a todos los consumidores chilenos. |
 
-Consiste en revisar la consistencia interna del modelo, su alineamiento con la literatura y su capacidad para explicar relaciones entre materialidad, operación, comunicación y resultados.
+Fuente primaria y enlace: R1; consulta 23-10-2026. Alta trazabilidad del documento, pero limitada representatividad estadística. La diferencia 90,3-14,2 es 76,1 puntos porcentuales entre indicadores distintos, no una medida causal ni una tabulación conjunta de personas.
 
-**Productos esperados:**
+No existe en esta revisión una segunda medición independiente que replique esos porcentajes ni un experimento local que demuestre retorno del marco. Los reportes corporativos y benchmarks del historial mantienen su propio periodo y perímetro; no se usan como datos iniciales del piloto. Las publicaciones propias aportan origen y contexto, no evaluación independiente.
 
-- Matriz conceptual.
-- Definiciones operacionales.
-- Mapa de indicadores.
-- Revisión de literatura.
-- Identificación de brechas de evidencia.
+## 9. Índice Radar corregido y decisiones
 
-### 4.2 Nivel 2: validación de caso
+Título accionable: exigir expediente del atributo antes de comunicar y probar su valor antes de escalar. Ejes: regulación y cumplimiento, economía circular y cadenas de valor. Tipo: propuesta de gestión sustentada por contexto documental; no se afirma crecimiento de una tendencia medido en búsquedas o inversión.
 
-Consiste en aplicar el marco a una empresa, unidad de negocio, producto o cadena de suministro.
+| Componente | Puntaje | Peso | Aporte |
+|---|---|---|---|
+| Impulso | 80 | 25% | 20,0 |
+| Materialidad | 82 | 25% | 20,5 |
+| Evidencia | 72 | 20% | 14,4 |
+| Urgencia | 68 | 15% | 10,2 |
+| Relevancia LATAM | 70 | 15% | 10,5 |
+| Total corregido | 75,6/100 | 100% | 75,6 |
 
-**Diseño mínimo:**
+Redondeo al entero más cercano: 76/100. Clasificación: Alto. Errata: 74/100 era un error de suma, no de redondeo. No cambian componentes ni pesos. La corrección no valida sus puntuaciones; el índice permanece editorial provisional, con rúbrica y calibración pendientes.
 
-1. Selección del caso.
-2. Línea base.
-3. Definición de intervención.
-4. Implementación.
-5. Medición posterior.
-6. Análisis de brechas y aprendizajes.
+Qué ocurre: el proyecto conecta deberes de información, gestión de envases y prueba del desempeño con decisiones de negocio. Por qué importa: obliga a explicitar atributo, costo, responsable y evidencia antes de escalar. Quiénes están expuestos: caso propuesto de productores y proveedores de consumo masivo en Chile; las obligaciones precisas deben analizarse individualmente. [R2-R3]
 
-**Requisitos:**
+Señales de vigilancia: cambios de proveedor, formulación, fallas, mermas, costos, tarifa, stock, mensajes y quejas. A 30 días: seleccionar SKU/canal, línea base e inventario de claims. A 90 días: homologación y expediente técnico-legal. A 180 días: diseño, potencia, datos y plan analítico cerrados antes de iniciar. Son plazos propuestos, no fechas regulatorias universales ni actividades ya realizadas.
 
-- Datos antes y después.
-- Grupo de comparación, cuando sea posible.
-- Definición explícita de unidad de análisis.
-- Documentación de supuestos y limitaciones.
+Dataset: matriz de sección 7 y registros secundarios separados. Fuentes: R1-R5. Limitaciones: sin piloto, rúbrica ni validación causal; actualización 23-10-2026. Contenido relacionado: Economía Circular en Chile y América Latina; Doble materialidad ESG; El Nuevo Paradigma de la Sostenibilidad; Tiempos Sustentables y la Arquitectura de Valor.
 
-### 4.3 Nivel 3: validación experimental
+## 10. REP, alegaciones y criterios de lanzamiento
 
-El experimento **AV-EXP-01** deberá evaluar el efecto del atributo sostenible, su comunicación y su disponibilidad sobre el comportamiento del consumidor.
+El DS 12/2020 establece metas y obligaciones de envases; define GRANSIC como Grandes Sistemas Colectivos Domiciliarios, integrados por 20 o más productores no relacionados. Distingue obligaciones del productor, sistemas y gestores autorizados; contempla tarifas moduladas y mecanismos posibles de certificación o etiquetado. No atribuye a todo sistema una certificación universal del contenido PCR. [R2, art. 2 N.º17, 9, 13 y 20]
 
-**Diseño propuesto:**
+Separar tres expedientes: composición y proceso del envase; gestión y valorización posconsumo; y alcance y respaldo de la alegación pública. No se identificó en las fuentes revisadas una obligación general de certificación GRANSIC antes de cualquier QR. No usar sello REP genérico como aval. El efecto de tarifas debe verificarse con categoría, material, peso, periodo y condiciones del sistema; no asumir ahorro automático que financie el PCR.
 
-- Grupo de control: producto o servicio sin atributo sostenible destacado.
-- Grupo de tratamiento: producto o servicio con atributo sostenible verificado y comunicado.
-- Variables dependientes: intención de compra, compra efectiva, recompra, disposición a pagar y confianza.
-- Variables de control: precio, disponibilidad, categoría, canal y perfil del consumidor.
-- Métricas: diferencia de medias, intervalos de confianza y tamaño del efecto.
+El control propuesto es evidencia técnica, revisión legal y comunicación. La Circular Interpretativa de SERNAC es contexto administrativo de información y publicidad, no nueva ley ni aprobación particular del mensaje. [R3]
 
-**Advertencia metodológica:** una encuesta puede medir percepción o intención, pero no reemplaza la observación de compra efectiva.
+Puertas del piloto: caso y equipo identificados; función y seguridad; proveedor y continuidad; claims y sellos autorizados cuando proceda; costos y tarifas documentados; asignación y muestra factibles; revisión ética/legal y gobierno de datos. No se afirma que estas puertas estén superadas.
 
----
+Escalar, iterar o detener se decidirá con umbrales predefinidos económicos, funcionales, ambientales y sociales. Un checklist cumplido acredita preparación o implementación documentada, no validez causal del marco. Una evaluación de ciclo de vida u otros impactos requiere metodología adicional a un balance de masas.
 
-## 5. Matriz de indicadores
+## 11. Inventario académico y publicaciones propias
 
-| Bloque | Indicador | Unidad | Periodo | Fuente | Nivel de evidencia |
-|---|---|---|---|---|---|
-| Económico | Margen bruto | % | Mensual, trimestral o anual | Estados financieros | Alta |
-| Económico | Costo unitario | Moneda/unidad | Mensual | Costeo interno | Alta |
-| Económico | Retorno de inversión | % o años | Por iniciativa | Modelo financiero | Media-alta |
-| Ambiental | Emisiones GEI | tCO2e | Anual | Inventario de gases de efecto invernadero | Alta |
-| Ambiental | Residuos valorizados | Toneladas o % | Mensual o anual | Registros operativos | Alta |
-| Ambiental | Material reciclado | Toneladas o % | Anual | Certificados y trazabilidad | Media-alta |
-| Ambiental | Recuperación efectiva | Toneladas o % | Anual | Sistema REP o gestor autorizado | Alta |
-| Social | Empleo vinculado | Personas | Anual | Recursos humanos | Alta |
-| Social | Satisfacción de grupos de interés | Índice 0-100 | Semestral o anual | Encuesta | Media |
-| Circularidad | Tasa de reutilización | % | Anual | Balance de materiales | Media-alta |
-| Circularidad | Durabilidad | Años o ciclos de uso | Por producto | Ensayos y garantías | Media-alta |
-| Comunicación | Afirmaciones verificadas | % | Por campaña | Revisión técnica y legal | Alta |
-| Consumidor | Comprensión del atributo | % | Por estudio | Encuesta o prueba de comprensión | Media |
-| Consumidor | Confianza | Índice 0-100 | Por estudio | Encuesta | Media |
-| Consumidor | Compra efectiva | Unidades o ingresos | Mensual | Datos transaccionales | Alta |
-| Consumidor | Recompra | % | Trimestral o anual | Datos transaccionales | Alta |
+El inventario externo contiene nueve registros heredados, uno excluido temporalmente. No se denomina fuentes validadas: la verificación completa de autoría, DOI, método y versión está pendiente. No se usan como evidencia confirmatoria de eficacia del modelo.
 
----
+| ID | Registro heredado | Identificador declarado / estado |
+|---|---|---|
+| S01 | Díaz-Cruces et al. (2025), sostenibilidad corporativa | 10.31637/epsir-2025-795; pendiente de validación integral. |
+| S02 | Prado-Chinga (2024), gestión corporativa | 10.69484/rcz/v3/n3/55; pendiente. |
+| S03 | Paredes Leal (2023), RSE | Sin DOI en inventario; pendiente. |
+| S04 | Moneva (2024), información corporativa | 10.32796/ice.2024.936.7833; antecedente, no resultado del piloto. |
+| S05 | Olarte Pacco (2026), ética | 10.33936/rehuso.v11i1.7334; pendiente. |
+| S06 | San Martín Calvo (2024), regulación | RIUBU 10259/10793; pendiente. |
+| S07 | Firdaus et al. (2026), responsabilidad climática | 10.7213/rev.dir.econ.soc.v17i1.33075; pendiente. |
+| S08 | Suescum Coelho et al. (2025), gestión integrada | 10.71068/d6ed7d44; excluido temporalmente, solo trazabilidad. |
+| S09 | Castro Cedeño et al. (2025), tecnología circular | 10.70577/rps.v3i3.48; pendiente. |
 
-## 6. Evidencia externa y contexto académico
+El inventario propio suministrado incluye: Guía Estratégica de Negocios y Finanzas Sostenibles (10.5281/zenodo.20443605); Brand Finance Global 500 2026 bajo la Arquitectura de Valor (10.17605/OSF.IO/CXZMJ); Economía Circular en Chile y América Latina (10.17605/OSF.IO/PKY85); Doble materialidad ESG (10.17605/OSF.IO/TYRH7); El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica (sin DOI en el inventario); Tiempos Sustentables y la Arquitectura de Valor (10.13140/RG.2.2.19546.50880); La Autosegmentación en las Redes Verticales, con Julio Orellana y Hiang Melcher (10.13140/RG.2.2.34373.20969).
 
-El marco se apoya en un conjunto de nueve publicaciones académicas externas, incorporadas al repositorio y al ESG Trends Radar. Estas fuentes permiten contextualizar la transición desde la sostenibilidad voluntaria hacia sistemas de gestión, reportabilidad, ética corporativa, cadena de valor y economía circular.
+Son metadatos proporcionados por el autor; no se afirma comprobación de cada depósito ni revisión por pares por tener identificador. Ninguno de esos DOI se reutiliza como identificador de este manuscrito.
 
-### 6.1 Fuentes externas validadas
+## 12. Límites, conclusiones y declaraciones
 
-1. Díaz-Cruces, E.; Méndez-Rocasolano, M.; Miró-Colmenárez, P. J. (2025). *La Sostenibilidad Corporativa: Un Pilar Estratégico para el Desarrollo Sostenible y la Competitividad Empresarial*. European Public & Social Innovation Review, 10, 1-18. DOI: 10.31637/epsir-2025-795.
+La contribución es un marco evaluable y un protocolo prospectivo. La eficacia causal de la Arquitectura de Valor no está demostrada. Incluso un resultado favorable en un SKU no valida toda la arquitectura ni se extrapola automáticamente a otros países, productos o canales.
 
-2. Prado-Chinga, A. E. (2024). *Evolución de las Prácticas de Gestión Corporativa: Tendencias y Desafíos Actuales*. Revista Científica Zambos, 3(3), 15-29. DOI: 10.69484/rcz/v3/n3/55.
+Limitaciones: revisión focalizada, sin datos primarios nuevos; caso y muestra aún abiertos; contexto SERNAC no probabilístico; inventario externo no verificado integralmente; sin evaluación completa de ciclo de vida ni resultados sociales causales; índice editorial sin calibración; sin revisión por pares o aval externo declarados.
 
-3. Paredes Leal, K. (2023). *Tendencias y desafíos de la Responsabilidad Social Empresarial: hacia una gestión corporativa sostenible*. Protección & Seguridad, 409, 36-37.
+Autoría: Jesús Patricio Blasco Valencia, según los documentos del titular. Publicación contenedora: Tiempos Sustentables, ISSN e ISSN-L 3087-3096, en línea, Chile. La copia del registro aportada muestra Confirmed record y modificación 2026-07-22; no se interpreta como fecha de asignación ni como verificación en vivo. [R6]
 
-4. Moneva, J. M. (2024). *El marco de la información corporativa sobre sostenibilidad*. ICE, Revista de Economía, 936, 51-62. DOI: 10.32796/ice.2024.936.7833.
+Conflicto de interés: el autor promueve la Arquitectura de Valor y dirige Tiempos Sustentables, con interés intelectual y potencialmente comercial. Financiamiento: el registro previo declara ausencia de financiamiento externo específico; la responsabilidad de confirmar esa declaración al publicar corresponde al autor. Se utilizó asistencia de IA para síntesis, revisión, cálculo y composición; el autor debe aprobar la versión final.
 
-5. Olarte Pacco, M. Á. D. (2026). *La ética como catalizador hacia la sostenibilidad empresarial: una revisión sistemática de tendencias*. ReHuSo: Revista de Ciencias Humanísticas y Sociales, 11(1), 80-91. DOI: 10.33936/rehuso.v11i1.7334.
+© Tiempos Sustentables, 2026. Obra original bajo Creative Commons Atribución 4.0 Internacional. Mantener atribución, enlace e indicación de cambios conforme a sus términos. Los materiales ajenos conservan sus derechos. ISSN no equivale a DOI, indexación, revisión por pares ni certificación del protocolo.
 
-6. San Martín Calvo, M. (2024). *Avances en la sostenibilidad de empresas: del Pacto Verde Europeo a las directivas CSRD y de diligencia debida*. Repositorio Institucional de la Universidad de Burgos.
+## 13. Referencias de control y estado de publicación
 
-7. Firdaus, K.; Utama, Y. J.; Putrijanti, A. (2026). *Responsabilidad climática de las empresas: formas jurídicas de imponer la reducción de las emisiones de carbono en las cadenas de suministro transnacionales*. Revista de Direito Econômico e Socioambiental, 17(1), e608. DOI: 10.7213/rev.dir.econ.soc.v17i1.33075.
+[R1] SERNAC (2025). Síntesis Ciudadana: Patrones de Consumo Sustentable en Chile 2025. Agosto 2025; encuesta junio 2025, pp. 1-2 para cifras y metodología. https://www.sernac.cl/portal/619/articles-87345_archivo_02.pdf Consulta: 23-10-2026.
 
-8. Suescum Coelho, C. et al. (2025). *Modelos Integrados de Gestión Ambiental, Ética Corporativa y Sostenibilidad: Una Aproximación Empresarial desde los ODS*. Multidisciplinary Journal of Sciences, Discoveries, and Society, 2(4), 1-15. DOI: 10.71068/d6ed7d44.  
-**Nota:** esta fuente fue cargada dos veces en la base documental y se excluye temporalmente del análisis final por duplicidad, manteniéndose registrada para trazabilidad.
+[R2] Ministerio del Medio Ambiente. DS 12/2020, publicado el 16-03-2021: metas de recolección y valorización y otras obligaciones de envases. Arts. 2, 9, 13 y 20. https://www.bcn.cl/leychile/navegar?idNorma=1157019 Consulta: 23-10-2026. No sustituye dictamen del caso.
 
-9. Castro Cedeño, D. P.; Bowen Cruzatty, M. L.; Telleria Polanco, M. de J. (2025). *Tecnologías emergentes y sostenibilidad empresarial: Innovación digital aplicada a modelos económicos circulares*. Revista Pulso Científico, 3(3), 167-180. DOI: 10.70577/rps.v3i3.48.
+[R3] SERNAC (2024). Resolución Exenta N.º799, Circular Interpretativa sobre Consumo Sostenible. https://www.sernac.cl/portal/618/articles-83749_archivo_01.pdf?ts=1734444922 Fuente primaria consultada en la revisión documental del 23-10-2026.
 
-### 6.2 Aporte de cada fuente al marco
+[R4] EFRAG (2024). IG 1: Materiality Assessment Implementation Guidance. Mayo 2024; guía no autoritativa. https://www.efrag.org/sites/default/files/sites/webpublishing/SiteAssets/IG%201%20Materiality%20Assessment_final.pdf Consulta documental: 23-10-2026; uso conceptual, no calendario regulatorio actualizado.
 
-| Fuente | Aporte principal al modelo |
-|---|---|
-| Díaz-Cruces et al. (2025) | Sostenibilidad corporativa como pilar estratégico y de competitividad. |
-| Prado-Chinga (2024) | Evolución de las prácticas de gestión corporativa y desafíos actuales. |
-| Paredes Leal (2023) | Transición de la responsabilidad social empresarial hacia gestión sostenible. |
-| Moneva (2024) | Marco de información corporativa sobre sostenibilidad y reportabilidad. |
-| Olarte Pacco (2026) | Ética corporativa como catalizador de sostenibilidad empresarial. |
-| San Martín Calvo (2024) | CSRD, diligencia debida y marco regulatorio europeo. |
-| Firdaus et al. (2026) | Responsabilidad climática y cadenas de suministro transnacionales. |
-| Suescum Coelho et al. (2025) | Modelos integrados de gestión ambiental, ética y ODS. |
-| Castro Cedeño et al. (2025) | Tecnologías digitales aplicadas a economía circular. |
+[R5] Egami, N., e Imai, K. (2019). Causal Interaction in Factorial Experiments: Application to Conjoint Analysis. Journal of the American Statistical Association, 114(526), 529-540. DOI 10.1080/01621459.2018.1476246. https://imai.fas.harvard.edu/research/files/int.pdf Consulta: 23-10-2026.
 
----
+[R6] Portal ISSN. Registro 3087-3096, Tiempos Sustentables. https://portal.issn.org/resource/ISSN/3087-3096 Evidencia: copia PDF adjuntada por el titular, revisada 23-10-2026; recuperación en vivo no confirmada.
 
-## 7. Contexto del ESG Trends Radar
-
-El ESG Trends Radar 2026-10 identifica como tendencia central que **la sostenibilidad corporativa migra del disclosure voluntario hacia obligaciones verificables de gobernanza, cadena de valor y clima**.
-
-**Índice Radar: 74/100 — Nivel: Alto.**
-
-| Dimensión | Puntaje | Ponderación |
-|---|---:|---:|
-| Impulso | 80 | 25% |
-| Materialidad | 82 | 25% |
-| Evidencia | 72 | 20% |
-| Urgencia | 68 | 15% |
-| Relevancia LATAM | 70 | 15% |
-| **Índice Radar** | **74** | **100%** |
-
-Este contexto refuerza la pertinencia del marco: las empresas necesitan pasar de declaraciones genéricas a sistemas que permitan demostrar qué se hizo, cómo se midió, quién respondió, con qué controles y con qué resultados.
-
----
-
-## 8. Base de publicaciones propias
-
-El artículo se apoya también en la base de publicaciones de Tiempos Sustentables:
-
-1. Blasco Valencia, J. P. (2026). *Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano*. DOI: 10.5281/zenodo.20443605.
-
-2. Blasco Valencia, J. P. (2026). *Brand Finance Global 500 2026 bajo la Arquitectura de Valor*. DOI: 10.17605/OSF.IO/CXZMJ.
-
-3. Blasco Valencia, J. P. (2026). *Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026*. DOI: 10.17605/OSF.IO/PKY85.
-
-4. Blasco Valencia, J. P. (2026). *Doble materialidad ESG: el puente entre reporting y rentabilidad en América Latina*. DOI: 10.17605/OSF.IO/TYRH7.
-
-5. Blasco Valencia, J. P. (2026). *El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica*. Tiempos Sustentables.
-
-6. Blasco Valencia, J. P. (2026). *Tiempos Sustentables y la Arquitectura de Valor*. DOI: 10.13140/RG.2.2.19546.50880.
-
-7. Blasco Valencia, J. P.; Orellana, J.; Melcher, H. (2010). *La Autosegmentación en las Redes Verticales*. DOI: 10.13140/RG.2.2.34373.20969.
-
----
-
-## 9. Criterios de éxito
-
-El marco podrá considerarse validado en una organización cuando cumpla simultáneamente las siguientes condiciones:
-
-1. Existe una línea base medible.
-2. Las iniciativas fueron priorizadas por doble materialidad.
-3. Hay responsables, controles y trazabilidad documentada.
-4. Las alegaciones ambientales fueron revisadas antes de su comunicación.
-5. Los resultados se miden frente a una referencia explícita.
-6. Se declaran límites, supuestos e incertidumbres.
-7. Los aprendizajes modifican la estrategia o la operación.
-
----
-
-## 10. Limitaciones
-
-- Este documento propone un marco y un protocolo; no presenta todavía resultados causales.
-- La evidencia académica disponible es mayoritariamente conceptual, normativa o basada en revisión de literatura.
-- La evidencia regional debe reforzarse con datos primarios de empresas, consumidores y cadenas de suministro en Chile y América Latina.
-- Los indicadores ambientales pueden tener distintos perímetros, metodologías y niveles de assurance.
-- La percepción del consumidor no equivale a comportamiento de compra efectivo.
-- La economía circular no debe reducirse a reciclaje ni confundirse con reciclabilidad o recuperación efectiva.
-
----
-
-## 11. Próximos pasos
-
-1. Validar la estructura conceptual del manuscrito.
-2. Definir el caso piloto o unidad de análisis.
-3. Construir la línea base de indicadores.
-4. Diseñar el protocolo AV-EXP-01.
-5. Incorporar datos primarios y evidencia de caso.
-6. Elaborar la versión final del PDF con diseño editorial de Tiempos Sustentables.
-
----
-
-## 12. Referencias
-
-Ver sección 6 para las nueve fuentes académicas externas y sección 8 para la base de publicaciones propias de Tiempos Sustentables.
-
-**Fecha de elaboración:** 23 de octubre de 2026.  
-**Fecha de revisión de fuentes:** 23 de octubre de 2026.
+La versión 1.2 corrige el manuscrito 1.0 en la misma ruta estable del repositorio. Sustituye el diseño experimental genérico y el índice erróneo; incorpora ISSN, licencia, trazabilidad y límites. No se declara PDF subido a WordPress, DOI asignado, release creado o repositorio público. Una distribución pública deberá identificar la misma versión de texto y PDF y registrar su huella de archivo.

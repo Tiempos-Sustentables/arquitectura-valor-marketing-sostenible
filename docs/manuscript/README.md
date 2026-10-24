@@ -1,9 +1,11 @@
-# Arquitectura de Valor Sostenible — Manuscrito v1.0
+# Arquitectura de Valor Sostenible — Manuscrito v1.2
 
-Ver `manuscrito/arquitectura_valor_sostenible_v1.md`.
+Archivo principal: [arquitectura_valor_sostenible_v1.md](./arquitectura_valor_sostenible_v1.md). La ruta histórica se conserva para evitar enlaces rotos; la versión vigente se indica dentro del archivo.
 
-Documento de trabajo para validación del ecosistema de Arquitectura de Valor Sostenible. Integra TBL, doble materialidad, economía circular, control de alegaciones ambientales, comportamiento del consumidor y el contexto del ESG Trends Radar 2026-10.
+Manuscrito metodológico revisado el 23 de octubre de 2026. Integra TBL, doble materialidad, protocolo propuesto de tres brazos, matriz de indicadores, fuentes primarias y límites de evidencia.
 
-Incluye 9 fuentes académicas externas y 7 publicaciones propias de Tiempos Sustentables.
+Publicación contenedora: Tiempos Sustentables · ISSN e ISSN-L 3087-3096 · En línea · Chile. © Tiempos Sustentables, 2026 · CC BY 4.0.
 
-**Estado:** borrador v1.0. No constituye evidencia causal validada ni resultados de un experimento ejecutado.
+Índice editorial provisional: 75,6/100 (76 redondeado), Alto. Nueve registros académicos heredados, uno excluido; no se declaran nueve fuentes validadas.
+
+AV-EXP-01 no ejecutado, sin resultados de campo, validación causal ni DOI asignado. El PDF v1.2 fue generado para entrega; su carga en plataformas y URL pública no se declaran realizadas.
