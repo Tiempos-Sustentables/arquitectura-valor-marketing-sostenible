@@ -16,7 +16,9 @@
   "copyright": "© Tiempos Sustentables, 2026",
   "jel_proposed": ["M31","Q01","Q56"],
   "radar": {"value":75.6,"rounded":76,"level":"Alto","status":"Editorial provisional; rúbrica pendiente"},
-  "related_article_report": {"title":"Arquitectura de Valor Sostenible: marco metodológico de ESG Trends Radar y protocolo propuesto AV-EXP-01","version":"1.1","doi":null,"pdf_uploaded":false,"public_pdf_url":null},
+  "publisher": {"name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
+  "container": {"title":"Tiempos Sustentables","type":"Periodical","issn":"3087-3096","issn_l":"3087-3096","medium":"Online","country":"Chile","registry_url":"https://portal.issn.org/resource/ISSN/3087-3096","evidence":"Copia del registro aportada por el autor; revisión documental, no consulta en vivo"},
+  "related_article_report": {"title":"Arquitectura de Valor Sostenible: marco metodológico de ESG Trends Radar y protocolo propuesto AV-EXP-01","version":"1.1","doi":null,"pdf_uploaded":false,"public_pdf_url":null,"container_title":"Tiempos Sustentables","container_issn":"3087-3096"},
   "release_created": false,
   "zenodo_integration_verified": false
 }

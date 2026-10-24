@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {"@type":"Periodical","@id":"https://tiempossustentables.cl/#periodical","name":"Tiempos Sustentables","issn":"3087-3096","url":"https://tiempossustentables.cl/","publisher":{"@id":"https://tiempossustentables.cl/#organization"}},
+    {"@type":"BlogPosting","@id":"https://tiempossustentables.cl/?p=10186#blogposting","headline":"ESG Trends Radar: Arquitectura de Valor y protocolo de evaluación","isPartOf":[{"@id":"https://tiempossustentables.cl/?p=10186#webpage"},{"@id":"https://tiempossustentables.cl/#periodical"}],"publisher":{"@id":"https://tiempossustentables.cl/#organization"},"license":"https://creativecommons.org/licenses/by/4.0/","copyrightYear":2026,"copyrightHolder":{"@id":"https://tiempossustentables.cl/#organization"}}
+  ]
+}

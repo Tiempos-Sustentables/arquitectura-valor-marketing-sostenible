@@ -1,0 +1,12 @@
+{
+  "name": "Tiempos Sustentables",
+  "institutional_description": "Plataforma de inteligencia en sostenibilidad corporativa y revista de publicación seriada",
+  "description_provenance": "Declaración institucional del titular",
+  "serial": {"key_title":"Tiempos Sustentables","title_proper":"Tiempos Sustentables","title_variant":"Serie Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano","issn":"3087-3096","issn_l":"3087-3096","medium":"Online","country":"Chile","record_status_as_shown":"Confirmed record","record_last_modified":"2026-07-22","responsible_issn_center":"Chile","registry_url":"https://portal.issn.org/resource/ISSN/3087-3096"},
+  "verification": {"reviewed_on":"2026-10-23","method":"Revisión de la copia del registro adjuntada por el autor","source_file":"ISSN-3087-3096-Tiempos-Sustentables.pdf","live_fetch_verified":false,"assignment_date_verified":false},
+  "website": "https://tiempossustentables.cl/",
+  "copyright": "© Tiempos Sustentables, 2026",
+  "original_work_license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "limitations": ["El ISSN corresponde a la publicación contenedora, no al artículo","No acredita revisión por pares, indexación ni validación causal","No se inventan volumen, número, fascículo, fecha de asignación o DOI"]
+}
