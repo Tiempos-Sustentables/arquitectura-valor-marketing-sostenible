@@ -1,0 +1,59 @@
+{
+  "record_id": "ETR-2026-10-01",
+  "edition": "1.4",
+  "editorial_update": "2026-10-28",
+  "tool": "ESG Trends Radar",
+  "publisher": "Tiempos Sustentables",
+  "decision_title": "Exigir evidencia del atributo antes de comunicar y evaluar su valor antes de escalar",
+  "axes": [
+    "Regulación y cumplimiento",
+    "Economía circular y materiales",
+    "Cadenas de valor"
+  ],
+  "record_type": "Propuesta de gestión / señal en vigilancia, no tendencia regional cuantificada",
+  "score": 75.6,
+  "score_rounded": 76,
+  "level": "Alto",
+  "score_status": "Editorial provisional; rúbrica, ventana y calibración pendientes",
+  "components": [
+    {
+      "name": "Impulso",
+      "score": 80,
+      "weight": 0.25,
+      "contribution": 20.0
+    },
+    {
+      "name": "Materialidad",
+      "score": 82,
+      "weight": 0.25,
+      "contribution": 20.5
+    },
+    {
+      "name": "Evidencia",
+      "score": 72,
+      "weight": 0.2,
+      "contribution": 14.4
+    },
+    {
+      "name": "Urgencia",
+      "score": 68,
+      "weight": 0.15,
+      "contribution": 10.2
+    },
+    {
+      "name": "Relevancia LATAM",
+      "score": 70,
+      "weight": 0.15,
+      "contribution": 10.5
+    }
+  ],
+  "actions": {
+    "30_days": "Seleccionar caso, inventariar claims y medir línea base",
+    "90_days": "Homologar formulación y expediente técnico-legal",
+    "180_days": "Cerrar asignación, muestra, instrumentos y análisis; iniciar solo tras revisiones pertinentes"
+  },
+  "evidence": "Fuentes U1, N1, S1, M1 y R1-R5: contexto y método, no validación de puntajes ni eficacia del Radar",
+  "source_consultations_retained": "2026-10-27",
+  "field_trial_executed": false,
+  "causal_validation": false
+}

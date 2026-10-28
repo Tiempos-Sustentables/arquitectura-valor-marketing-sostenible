@@ -1,0 +1,600 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+  "name": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+  "author": {
+    "@type": "Person",
+    "name": "Jesús Patricio Blasco Valencia",
+    "jobTitle": "Director",
+    "sameAs": "https://orcid.org/0009-0002-4839-104X"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tiempos Sustentables",
+    "url": "https://tiempossustentables.cl"
+  },
+  "datePublished": "2026-10-28",
+  "inLanguage": "es",
+  "issn": "3087-3096",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "encoding": {
+    "@type": "MediaObject",
+    "encodingFormat": "application/pdf",
+    "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf"
+  }
+}
+</script>
+
+<!-- Tipografía Inter -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
+
+<style>
+    /* Scope encapsulado: No altera los colores ni el fondo del tema de WordPress */
+    .document-wrapper {
+        --deep-blue: #0F2D52;
+        --deep-blue-light: #1A467D;
+        --deep-blue-dark: #08192E;
+        --accent-gold: #D4AF37;
+        --accent-gold-hover: #B5952F;
+        --text-main: #334155;
+        --text-dark: #0F172A;
+        --text-muted: #64748B;
+        --bg-surface: #FFFFFF;
+        --bg-alt: #F8FAFC;
+        --border-light: #E2E8F0;
+        --warning-bg: #FEF2F2;
+        --warning-border: #DC2626;
+        --warning-text: #991B1B;
+        --info-bg: #F0F9FF;
+        --info-border: #0284C7;
+        --info-text: #075985;
+
+        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        color: var(--text-main);
+        line-height: 1.7;
+        max-width: 1000px;
+        margin: 30px auto;
+        background-color: var(--bg-surface);
+        border-radius: 12px;
+        box-shadow: 0 10px 40px rgba(15, 45, 82, 0.08);
+        border: 1px solid var(--border-light);
+        overflow: hidden;
+        text-align: left;
+    }
+
+    .document-wrapper *,
+    .document-wrapper *::before,
+    .document-wrapper *::after {
+        box-sizing: border-box;
+    }
+
+    /* Cabecera Hero */
+    .document-wrapper .hero {
+        background: linear-gradient(135deg, var(--deep-blue-dark) 0%, var(--deep-blue) 100%);
+        color: #FFFFFF;
+        padding: 55px 45px;
+        text-align: center;
+        position: relative;
+    }
+
+    .document-wrapper .hero::after {
+        content: '';
+        position: absolute;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: url('data:image/svg+xml;utf8,<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg"><circle cx="2" cy="2" r="1.5" fill="rgba(255,255,255,0.05)"/></svg>') repeat;
+        pointer-events: none;
+    }
+
+    .document-wrapper .hero h1 {
+        font-size: 2.2rem;
+        font-weight: 800;
+        line-height: 1.25;
+        margin: 0 0 16px 0;
+        letter-spacing: -0.02em;
+        color: #FFFFFF !important;
+        position: relative;
+        z-index: 2;
+    }
+
+    .document-wrapper .hero .subtitle {
+        font-size: 1.2rem;
+        color: #93C5FD !important;
+        font-weight: 400;
+        margin-bottom: 28px;
+        position: relative;
+        z-index: 2;
+        line-height: 1.4;
+    }
+
+    .document-wrapper .academic-meta {
+        background: rgba(255, 255, 255, 0.08);
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        backdrop-filter: blur(8px);
+        border-radius: 8px;
+        padding: 20px;
+        display: inline-block;
+        text-align: left;
+        font-size: 0.92rem;
+        line-height: 1.6;
+        margin-bottom: 30px;
+        position: relative;
+        z-index: 2;
+        color: #F8FAFC;
+    }
+
+    .document-wrapper .academic-meta a {
+        color: #BFDBFE !important;
+        text-decoration: underline;
+        transition: all 0.2s;
+    }
+
+    .document-wrapper .academic-meta a:hover {
+        color: #FFFFFF !important;
+    }
+
+    .document-wrapper .academic-meta strong {
+        color: #FFFFFF;
+        font-weight: 600;
+    }
+
+    /* Botones */
+    .document-wrapper .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        padding: 15px 30px;
+        font-size: 1.05rem;
+        font-weight: 600;
+        border-radius: 8px;
+        text-decoration: none !important;
+        transition: all 0.25s ease;
+        position: relative;
+        z-index: 2;
+        cursor: pointer;
+    }
+
+    .document-wrapper .btn svg {
+        width: 20px;
+        height: 20px;
+        fill: currentColor;
+    }
+
+    .document-wrapper .btn-primary {
+        background-color: var(--accent-gold);
+        color: var(--deep-blue-dark) !important;
+        box-shadow: 0 6px 18px rgba(212, 175, 55, 0.28);
+    }
+
+    .document-wrapper .btn-primary:hover {
+        background-color: var(--accent-gold-hover);
+        transform: translateY(-2px);
+    }
+
+    .document-wrapper .btn-secondary {
+        background-color: var(--deep-blue);
+        color: #FFFFFF !important;
+        box-shadow: 0 6px 18px rgba(15, 45, 82, 0.2);
+    }
+
+    .document-wrapper .btn-secondary:hover {
+        background-color: var(--deep-blue-light);
+        transform: translateY(-2px);
+    }
+
+    /* Contenido */
+    .document-wrapper .content {
+        padding: 45px 55px;
+    }
+
+    .document-wrapper h2 {
+        font-size: 1.65rem;
+        color: var(--deep-blue) !important;
+        font-weight: 700;
+        margin: 44px 0 20px 0;
+        padding-bottom: 12px;
+        border-bottom: 2px solid var(--border-light);
+        letter-spacing: -0.01em;
+        line-height: 1.3;
+    }
+
+    .document-wrapper h2:first-of-type {
+        margin-top: 0;
+    }
+
+    .document-wrapper h3 {
+        font-size: 1.22rem;
+        color: var(--text-dark) !important;
+        font-weight: 600;
+        margin: 32px 0 14px 0;
+        line-height: 1.35;
+    }
+
+    .document-wrapper p {
+        margin-bottom: 18px;
+        font-size: 1.02rem;
+        line-height: 1.75;
+        text-align: justify;
+        text-justify: inter-word;
+        color: var(--text-main);
+    }
+
+    .document-wrapper ul {
+        margin: 0 0 22px 24px;
+        padding-left: 0;
+        font-size: 1.02rem;
+    }
+
+    .document-wrapper li {
+        margin-bottom: 10px;
+        line-height: 1.65;
+        color: var(--text-main);
+    }
+
+    /* Cajas Callout */
+    .document-wrapper .callout {
+        padding: 22px 24px;
+        border-radius: 0 8px 8px 0;
+        border-left: 4px solid;
+        margin: 28px 0;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
+        font-size: 0.98rem;
+    }
+
+    .document-wrapper .callout-title {
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 8px;
+        font-size: 1.05rem;
+    }
+
+    .document-wrapper .callout.info {
+        background-color: var(--info-bg);
+        border-color: var(--info-border);
+        color: var(--info-text);
+    }
+
+    .document-wrapper .callout.warning {
+        background-color: var(--warning-bg);
+        border-color: var(--warning-border);
+        color: var(--warning-text);
+    }
+
+    .document-wrapper .callout-note {
+        font-size: 0.9rem;
+        margin-top: 12px;
+        font-style: italic;
+        border-top: 1px solid;
+        padding-top: 10px;
+    }
+
+    /* Tablas */
+    .document-wrapper .table-responsive {
+        width: 100%;
+        overflow-x: auto;
+        margin: 28px 0;
+        border-radius: 8px;
+        border: 1px solid var(--border-light);
+        box-shadow: 0 3px 12px rgba(0, 0, 0, 0.02);
+    }
+
+    .document-wrapper table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.93rem;
+        min-width: 600px;
+        margin: 0;
+        background-color: #FFFFFF;
+    }
+
+    .document-wrapper thead {
+        background-color: var(--deep-blue);
+    }
+
+    .document-wrapper th {
+        color: #FFFFFF !important;
+        font-weight: 600;
+        padding: 14px 16px;
+        text-align: center;
+        vertical-align: middle;
+        border-right: 1px solid rgba(255, 255, 255, 0.12);
+        border-bottom: none;
+    }
+
+    .document-wrapper th:last-child {
+        border-right: none;
+    }
+
+    .document-wrapper td {
+        padding: 14px 16px;
+        text-align: center;
+        vertical-align: middle;
+        border-bottom: 1px solid var(--border-light);
+        border-right: 1px solid var(--border-light);
+        color: var(--text-dark);
+        line-height: 1.5;
+    }
+
+    .document-wrapper td:last-child {
+        border-right: none;
+    }
+
+    .document-wrapper tbody tr:last-child td {
+        border-bottom: none;
+    }
+
+    .document-wrapper tbody tr:nth-child(even) {
+        background-color: var(--bg-alt);
+    }
+
+    .document-wrapper tbody tr:hover {
+        background-color: #F1F5F9;
+    }
+
+    /* Sección de Descarga */
+    .document-wrapper .download-section {
+        background-color: var(--bg-alt);
+        border: 1px solid var(--border-light);
+        border-radius: 10px;
+        padding: 36px 30px;
+        text-align: center;
+        margin: 44px 0 16px 0;
+    }
+
+    .document-wrapper .download-section h3 {
+        margin-top: 0;
+        color: var(--deep-blue) !important;
+        font-size: 1.4rem;
+    }
+
+    /* Enlaces Relacionados */
+    .document-wrapper .related-links {
+        list-style: none !important;
+        margin: 16px 0 0 0 !important;
+        padding: 0 !important;
+    }
+
+    .document-wrapper .related-links li {
+        padding: 12px 18px;
+        background: var(--bg-alt);
+        margin-bottom: 8px;
+        border-radius: 6px;
+        border-left: 3px solid var(--deep-blue);
+        transition: background 0.2s;
+    }
+
+    .document-wrapper .related-links li:hover {
+        background: #F1F5F9;
+    }
+
+    .document-wrapper .related-links a {
+        text-decoration: none !important;
+        color: var(--deep-blue) !important;
+        font-weight: 600;
+        display: block;
+    }
+
+    /* Footer del Componente */
+    .document-wrapper .site-footer {
+        background-color: #FFFFFF;
+        border-top: 1px solid var(--border-light);
+        padding: 28px 40px;
+        text-align: center;
+        color: var(--text-muted);
+        font-size: 0.88rem;
+    }
+
+    .document-wrapper .site-footer a {
+        color: var(--deep-blue) !important;
+        text-decoration: none;
+        font-weight: 500;
+    }
+
+    .document-wrapper .site-footer a:hover {
+        text-decoration: underline;
+    }
+
+    /* Ajustes Móviles */
+    @media (max-width: 768px) {
+        .document-wrapper { margin: 15px auto; border-radius: 8px; }
+        .document-wrapper .hero { padding: 40px 24px; }
+        .document-wrapper .hero h1 { font-size: 1.85rem; }
+        .document-wrapper .content { padding: 32px 24px; }
+        .document-wrapper .academic-meta { font-size: 0.85rem; padding: 16px; }
+        .document-wrapper .btn { width: 100%; font-size: 1rem; padding: 14px 20px; }
+        .document-wrapper .download-section { padding: 26px 18px; }
+    }
+</style>
+
+<div class="document-wrapper">
+    
+    <header class="hero">
+        <h1>ESG Trends Radar y Arquitectura de Valor para el marketing sostenible</h1>
+        <p class="subtitle">Inteligencia ESG, evidencia circular y protocolo de evaluación de campo AV-EXP-01</p>
+        
+        <div class="academic-meta">
+            <strong>Autor:</strong> Jesús Patricio Blasco Valencia · Director de Tiempos Sustentables<br>
+            <strong>ORCID:</strong> <a href="https://orcid.org/0009-0002-4839-104X" target="_blank" rel="noopener">https://orcid.org/0009-0002-4839-104X</a><br>
+            <strong>Publicación:</strong> Tiempos Sustentables · Inteligencia en sostenibilidad corporativa<br>
+            <strong>Registro:</strong> ISSN 3087-3096 · ISSN-L 3087-3096 · Santiago de Chile, 28 de octubre de 2026<br>
+            <strong>Condición:</strong> Informe metodológico para revisión pública. © 2026 · CC BY 4.0
+        </div>
+        
+        <div>
+            <a href="#descarga-documento" class="btn btn-primary">
+                <svg viewBox="0 0 24 24">
+                    <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"></path>
+                </svg>
+                Descargar Informe Metodológico (PDF)
+            </a>
+        </div>
+    </header>
+
+    <div class="content">
+
+        <h2>Cumplimiento Regulatorio vs. Destrucción de Valor: El Dilema del C-Suite en la Era ESG</h2>
+        <p>Para los comités ejecutivos y directorios en Chile y América Latina, la gestión ambiental ha sobrepasado definitivamente la esfera del cumplimiento cosmético o la extensión de relaciones públicas. La entrada en vigencia de exigencias de reportabilidad institucional como la <strong>NCG 461 de la Comisión para el Mercado Financiero (CMF)</strong> y las obligaciones operativas del <strong>Decreto Supremo 12/2020 de la Ley de Responsabilidad Extendida del Productor (Ley REP)</strong> han trasladado la sostenibilidad directamente al estado de resultados (P&amp;L) y al EBITDA corporativo.</p>
+        
+        <p>Existe una brecha sustancial entre el cumplimiento documental de «papel» y la rentabilidad comercial real. Muchas organizaciones están comprometiendo cuantiosas inversiones en capital de trabajo y CAPEX —asumiendo sobrecostos por resinas recicladas o rediseño de empaques— bajo la intuición no probada de que el mercado premiará automáticamente estas acciones. La evidencia empírica demuestra que la mera incorporación de un atributo ambiental no garantiza la disposición a pagar del consumidor ni protege a la empresa ante el escrutinio regulatorio y comercial.</p>
+        
+        <p>Para evitar la erosión de márgenes y los severos riesgos reputacionales derivados de aseveraciones no sustentadas, las decisiones de inversión en marketing y empaques sostenibles deben abandonar las suposiciones comerciales. Este informe técnico de <em>Tiempos Sustentables</em> analiza la evidencia empírica disponible e introduce un marco metodológico para evaluar el impacto económico antes de escalar desembolsos corporativos.</p>
+
+        <h2>Hallazgos Críticos y Desmitificación ESG</h2>
+
+        <h3>1. La brecha de opacidad del consumidor chileno: Por qué la buena intención no se traduce en compra</h3>
+        <p>Los datos de la encuesta sobre patrones de consumo sustentable del <strong>Servicio Nacional del Consumidor (SERNAC)</strong>, realizada en junio de 2025 y publicada en su síntesis ciudadana de agosto de 2025, revelan una falla estructural en la comunicación de las marcas en Chile. Aunque el <strong>90,3%</strong> de los participantes afirma que la información ambiental es importante, solo el <strong>14,2%</strong> considera que la información disponible es suficiente. Esta discrepancia representa una brecha aritmética de <strong>76,1 puntos porcentuales</strong> entre la importancia asignada y la suficiencia percibida, evidenciando una falla severa de información en el mercado.</p>
+        <p>Asimismo, un <strong>68,3%</strong> percibe la información ambiental como poco o nada clara, un <strong>64%</strong> no confía en los mensajes entregados por las empresas y un <strong>87,2%</strong> percibe opacidad generalizada.</p>
+
+        <div class="callout info">
+            <div class="callout-title">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+                Dato Clave SERNAC
+            </div>
+            <p>El <strong>87,2%</strong> de los consumidores participantes en Chile percibe que las marcas son poco o nada transparentes en sus aseveraciones ambientales, evidenciando un quiebre de confianza estructural.</p>
+            <div class="callout-note" style="color: var(--info-text); border-top-color: rgba(2, 132, 199, 0.2);">
+                <strong>Límite metodológico:</strong> Es indispensable explicitar que estos hallazgos provienen de una muestra no probabilística de n=616 participantes con sesgo de autoselección y deseabilidad social. Los datos no permiten una extrapolación transaccional a nivel nacional; no obstante, justifican la necesidad metodológica de medir la comprensión real antes de lanzar campañas.
+            </div>
+        </div>
+
+        <h3>2. El espejismo del «Green Premium» de EE.UU. frente a la realidad local</h3>
+        <p>El informe <em>Sustainable Market Share Index 2025</em> del <strong>NYU Stern Center for Sustainable Business</strong> (con datos de Circana) documenta que los productos comercializados como sostenibles alcanzaron una cuota de mercado del <strong>25,4%</strong> en EE.UU. El estudio reporta una Tasa de Crecimiento Anual Compuesta (CAGR) en una ventana de 5 años del <strong>10,9% anual</strong> para productos sostenibles frente al 2,2% de sus contrapartes convencionales, registrando una prima de precio ponderada observada del <strong>26,6%</strong> en 2024.</p>
+
+        <div class="callout warning">
+            <div class="callout-title">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+                Advertencia Financiera
+            </div>
+            <p>Trasladar esta prima de precio del 26,6% como un supuesto de disposición a pagar en el mercado chileno constituye un error de evaluación financiera. La metodología de NYU Stern clasifica comercialmente productos en EE.UU. y <strong>excluye explícitamente la reciclabilidad del envase</strong> por sí sola como criterio de sostenibilidad.</p>
+        </div>
+
+        <h3>3. Corporativos bajo la lupa: La trampa de reconciliación en reportes ESG</h3>
+        <p>El análisis de divulgaciones corporativas internacionales evidencia discrepancias metodológicas y cambios en los perímetros de reporte que dificultan la comparación longitudinal de métricas ESG:</p>
+        <ul>
+            <li><strong>Unilever:</strong> La serie en su hoja <em>Waste-free world</em> muestra que el volumen de plástico PCR pasó de 76.000 t (2020) a 146.000 t (2023). Es crucial observar que el último periodo modificó su fecha de cierre (de junio a septiembre) y que en 2022 la cobertura geográfica se redujo. Esta estabilización no puede atribuirse automáticamente a escasez de resina sin datos primarios internos.</li>
+            <li><strong>Natura &amp;Co:</strong> En su reporte 2024, el indicador combinado de materiales reutilizables, reciclables o compostables registró 84,6%. A nivel de reportabilidad, conviven un índice destacado de PCR de 18,2% y una cifra de Material Reciclado Posconsumo (MRPC) consolidado de 9,5%, sin una explicación metodológica que armonice ambas bases.</li>
+        </ul>
+        <p><em>Inconsistencias no explicadas en los denominadores corporativos exponen a las empresas a severos cuestionamientos de reputación y escrutinio legal.</em></p>
+
+        <h3>4. Gobernanza y cerco regulatorio en Chile (CMF, Ley REP, SERNAC)</h3>
+        <p>El ecosistema regulatorio chileno exige distinguir las funciones específicas de cada instrumento normativo:</p>
+        <ul>
+            <li><strong>NCG 461 (CMF):</strong> Es un estándar de reportabilidad institucional a nivel de entidad, no una certificación técnica de resinas plásticas ni una norma de rotulado comercial.</li>
+            <li><strong>DS 12/2020 (Ley REP):</strong> La participación o pago a un Sistema de Gestión (GRANSIC) no constituye un certificado general de contenido reciclado ni valida aseveraciones publicitarias.</li>
+            <li><strong>Resolución Exenta N.º 799 (SERNAC):</strong> Circular interpretativa sobre los deberes de información veraz y comprobable en alegaciones ambientales, mitigando el <em>greenwashing</em>.</li>
+        </ul>
+
+        <h3>5. Protocolo AV-EXP-01: Evaluación rigurosa antes de comprometer CAPEX</h3>
+        <p>Para resolver la incertidumbre sobre el retorno de inversión y aislar variables, <em>Tiempos Sustentables</em> propone el protocolo experimental de tres brazos <strong>AV-EXP-01</strong> para SKUs de consumo masivo:</p>
+
+        <div class="table-responsive">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Brazo Experimental</th>
+                        <th>Intervención de Envase</th>
+                        <th>Estrategia de Comunicación</th>
+                        <th>Efecto Aislado (Estimando)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>T0 (Control)</strong></td>
+                        <td>Envase actual documentado con la información habitual.</td>
+                        <td>Información legal obligatoria estándar.</td>
+                        <td>Línea base actual de compra.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>T1 (Físico)</strong></td>
+                        <td>Modificación con resina PCR homologada y trazable.</td>
+                        <td>Sin destacado publicitario promocional del nuevo atributo.</td>
+                        <td>Impacto intrínseco del empaque físico (color, textura).</td>
+                    </tr>
+                    <tr>
+                        <td><strong>T2 (Comunicado)</strong></td>
+                        <td>Mismo empaque con resina PCR del brazo T1.</td>
+                        <td>Alegación ambiental verificable con expediente técnico.</td>
+                        <td>Efecto neto de la comunicación respaldada.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <p style="font-size: 0.95rem; color: var(--text-muted); text-align: center;">
+            <em><strong>Nota:</strong> AV-EXP-01 es un marco metodológico propuesto (preprint). No presenta resultados de campo ni validación causal previa.</em>
+        </p>
+
+        <h2>El Marco Operativo: La Arquitectura de Valor</h2>
+        <p>La <strong>Arquitectura de Valor</strong> conecta las exigencias de la doble materialidad y el enfoque <em>Triple Bottom Line</em> (TBL) con las variables críticas de la cuenta de resultados (P&amp;L). Articula la toma de decisiones a través de tres capacidades estructuradas:</p>
+
+        <div class="table-responsive">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Capacidad Directiva</th>
+                        <th>Pregunta Clave para el Directorio</th>
+                        <th>Impacto en P&amp;L / EBITDA</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Cabeza Fría</strong></td>
+                        <td>¿Cuál es la economía unitaria, el costo real y el retorno evaluado?</td>
+                        <td>Evaluación de costos variables, mermas de producción (scrap), inversión CAPEX, tarifas REP y margen de contribución.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Corazón Activo</strong></td>
+                        <td>¿Qué utilidad tangible entrega el atributo y cómo se percibe?</td>
+                        <td>Aseguramiento de la función técnica, precio por uso, accesibilidad de mercado y comprensión del mensaje sin 'greenwashing'.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Manos Firmes</strong></td>
+                        <td>¿Quién ejecuta la operación y qué trazabilidad respalda el claim?</td>
+                        <td>Homologación de proveedores de resina PCR, expedientes técnico-legales por lote y control de calidad.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <p>Dentro de la priorización editorial, la temática cuenta con una puntuación provisional en el <strong>ESG Trends Radar de 75,6/100 (Nivel Alto)</strong>. Esta cifra es una herramienta de priorización editorial interna de la publicación y no constituye una medición de riesgo corporativo ni prueba experimental.</p>
+
+        <h2>Cierre Prospectivo y Desafío a los Directorios</h2>
+        <p>El tránsito de la sostenibilidad retórica hacia la sostenibilidad como disciplina de eficiencia financiera exige rigor metodológico. La sustitución de materiales y la difusión de alegaciones ambientales sin respaldo comprobable exponen a las compañías a mermas operativas, contingencias regulatorias y a la erosión de la confianza del consumidor.</p>
+        <p>La pregunta para su directorio no es cuánto sobreprecio puede cobrar por un envase sostenible, sino <strong>qué evidencia verificable posee hoy para demostrar ese atributo antes de comprometer su presupuesto y su reputación.</strong></p>
+
+        <section id="descarga-documento" class="download-section">
+            <h3>Descargar Informe Técnico Oficial (PDF)</h3>
+            <p style="max-width: 700px; margin: 0 auto 24px auto;">
+                Revise la metodología completa, la matriz de indicadores TBL y las especificaciones de gobernanza. Incluye la formulación matemática del estimando primario y la planificación muestral estadística.
+            </p>
+            <a href="https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf" target="_blank" rel="noopener" class="btn btn-secondary">
+                <svg viewBox="0 0 24 24">
+                    <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"></path>
+                </svg>
+                Descargar Documento Completo (13 Págs.)
+            </a>
+        </section>
+
+        <h3 style="margin-top: 40px;">Contenido Relacionado de Tiempos Sustentables</h3>
+        <ul class="related-links">
+            <li><a href="https://tiempossustentables.cl/economia-circular-chile-latam/">Economía Circular en Chile y América Latina: Casos y Regulación</a></li>
+            <li><a href="https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/">Doble Materialidad ESG: Del Reporting a la Rentabilidad</a></li>
+            <li><a href="https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/">El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica</a></li>
+            <li><a href="https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/">Diagnóstico de Arquitectura de Valor Corporativa</a></li>
+        </ul>
+
+    </div>
+    <footer class="site-footer">
+        <p><a href="https://tiempossustentables.cl">Tiempos Sustentables</a> · Plataforma de inteligencia corporativa y revista seriada.</p>
+        <p>ISSN 3087-3096 · ISSN-L 3087-3096 · Santiago de Chile, Octubre 2026.</p>
+        <p style="margin-top: 12px; font-size: 0.85rem;">
+            Obra bajo licencia internacional <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Atribución 4.0 (CC BY 4.0)</a>.
+        </p>
+    </footer>
+
+</div>
