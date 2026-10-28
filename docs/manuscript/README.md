@@ -1,11 +1,13 @@
-# Arquitectura de Valor Sostenible — Manuscrito v1.2
+# Manuscrito principal — versión 1.4
 
-Archivo principal: [arquitectura_valor_sostenible_v1.md](./arquitectura_valor_sostenible_v1.md). La ruta histórica se conserva para evitar enlaces rotos; la versión vigente se indica dentro del archivo.
+Documento aprobado por el autor: [ESG Trends Radar y Arquitectura de Valor para el marketing sostenible](./ESG_Trends_Radar_Articulo_Report_1_4.pdf).
 
-Manuscrito metodológico revisado el 23 de octubre de 2026. Integra TBL, doble materialidad, protocolo propuesto de tres brazos, matriz de indicadores, fuentes primarias y límites de evidencia.
+## Formatos de la misma entrega
+- [PDF](./ESG_Trends_Radar_Articulo_Report_1_4.pdf)
+- [Markdown](./ESG_Trends_Radar_Articulo_Report_1_4.md)
+- [Word](./ESG_Trends_Radar_Articulo_Report_1_4.docx)
+- [HTML](./ESG_Trends_Radar_Articulo_Report_1_4.html)
 
-Publicación contenedora: Tiempos Sustentables · ISSN e ISSN-L 3087-3096 · En línea · Chile. © Tiempos Sustentables, 2026 · CC BY 4.0.
+ISSN e ISSN-L 3087-3096 · © Tiempos Sustentables, 2026 · CC BY 4.0.
 
-Índice editorial provisional: 75,6/100 (76 redondeado), Alto. Nueve registros académicos heredados, uno excluido; no se declaran nueve fuentes validadas.
-
-AV-EXP-01 no ejecutado, sin resultados de campo, validación causal ni DOI asignado. El PDF v1.2 fue generado para entrega; su carga en plataformas y URL pública no se declaran realizadas.
+Preprint metodológico; AV-EXP-01 no ejecutado. Radar editorial provisional 75,6/100, Alto. Los archivos aprobados se conservan sin reescritura. El histórico arquitectura_valor_sostenible_v1.md es borrador 1.2, no el documento vigente. No sustituirlo por esta entrega ni citarlo como versión final.

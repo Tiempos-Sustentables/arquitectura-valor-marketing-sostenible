@@ -1,13 +1,14 @@
 cff-version: 1.2.0
-message: "Cite el manuscrito y las fuentes originales; no atribuya validación causal."
+message: "Cite este artículo-report metodológico y sus fuentes; no atribuya validación causal."
 type: article
-title: "Arquitectura de Valor para el marketing sostenible: síntesis documental sobre desempeño circular, evidencia corporativa y consumo, con foco en Chile y proyección latinoamericana"
+title: "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible"
 authors:
   - family-names: "Blasco Valencia"
     given-names: "Jesús Patricio"
     affiliation: "Tiempos Sustentables"
     orcid: "https://orcid.org/0009-0002-4839-104X"
-version: "2.1"
+version: "1.4"
 license: CC-BY-4.0
+url: "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/"
 repository-code: "https://github.com/Tiempos-Sustentables/arquitectura-valor-marketing-sostenible"
-abstract: "Síntesis documental con 18 registros secundarios. Sin panel econométrico ni experimento ejecutado. DOI pendiente. El Radar editorial provisional se corrige a 75.6/100."
+abstract: "Artículo-report metodológico de Tiempos Sustentables, ISSN 3087-3096. Integra ESG Trends Radar, Arquitectura de Valor, 18 registros secundarios y protocolo AV-EXP-01 no ejecutado. Radar editorial provisional 75.6/100. Sin resultados causales ni DOI nuevo declarado."

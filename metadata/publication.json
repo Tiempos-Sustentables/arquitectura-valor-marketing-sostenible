@@ -1,24 +1,78 @@
 {
-  "title": "Arquitectura de Valor para el marketing sostenible: síntesis documental sobre desempeño circular, evidencia corporativa y consumo, con foco en Chile y proyección latinoamericana",
-  "title_en": "Value Architecture for Sustainable Marketing: A Documentary Synthesis of Circular Performance, Corporate Evidence, and Consumption, with a Focus on Chile and Latin American Implications",
-  "version": "2.1",
-  "documentary_cutoff": "2026-10-17",
-  "metadata_updated": "2026-10-23",
-  "author": {"name":"Jesús Patricio Blasco Valencia","affiliation":"Tiempos Sustentables","orcid_declared":"0009-0002-4839-104X"},
-  "funding": "El presente trabajo fue realizado sin financiamiento externo específico.",
-  "doi": null,
-  "peer_reviewed": false,
-  "status": "Preprint manuscript; not deposited; no causal validation",
-  "conflict_of_interest": "El autor desarrolla la Arquitectura de Valor y dirige Tiempos Sustentables; interés intelectual y potencialmente comercial.",
-  "license_status": "CC BY 4.0 confirmada por el titular el 2026-10-23 para obra original; terceros mantienen sus términos.",
+  "title": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+  "version": "1.4",
+  "editorial_date": "2026-10-28",
+  "metadata_prepared_on": "2026-10-28",
+  "document_type": "Artículo-report metodológico / preprint",
+  "author": {
+    "name": "Jesús Patricio Blasco Valencia",
+    "affiliation": "Tiempos Sustentables",
+    "orcid": "0009-0002-4839-104X"
+  },
+  "publisher": {
+    "name": "Tiempos Sustentables",
+    "url": "https://tiempossustentables.cl/"
+  },
+  "container": {
+    "title": "Tiempos Sustentables",
+    "issn": "3087-3096",
+    "issn_l": "3087-3096",
+    "medium": "Online",
+    "country": "Chile",
+    "registry_url": "https://portal.issn.org/resource/ISSN/3087-3096",
+    "verification": "Copia del registro aportada por el autor; no recuperación en vivo"
+  },
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "copyright": "© Tiempos Sustentables, 2026",
-  "jel_proposed": ["M31","Q01","Q56"],
-  "radar": {"value":75.6,"rounded":76,"level":"Alto","status":"Editorial provisional; rúbrica pendiente"},
-  "publisher": {"name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
-  "container": {"title":"Tiempos Sustentables","type":"Periodical","issn":"3087-3096","issn_l":"3087-3096","medium":"Online","country":"Chile","registry_url":"https://portal.issn.org/resource/ISSN/3087-3096","evidence":"Copia del registro aportada por el autor; revisión documental, no consulta en vivo"},
-  "related_article_report": {"title":"Arquitectura de Valor Sostenible: marco metodológico de ESG Trends Radar y protocolo propuesto AV-EXP-01","version":"1.1","doi":null,"pdf_uploaded":false,"public_pdf_url":null,"container_title":"Tiempos Sustentables","container_issn":"3087-3096"},
-  "release_created": false,
-  "zenodo_integration_verified": false
+  "doi": null,
+  "peer_reviewed": false,
+  "field_trial_executed": false,
+  "causal_validation": false,
+  "radar": {
+    "value": 75.6,
+    "rounded": 76,
+    "level": "Alto",
+    "status": "Editorial provisional; rúbrica y calibración pendientes"
+  },
+  "public_urls_declared_by_author": {
+    "article": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/",
+    "pdf": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
+    "cover_png": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Tiempos_Sustentables.png"
+  },
+  "url_verification": {
+    "author_confirmation_date": "2026-10-28",
+    "assistant_fetch_success": false
+  },
+  "wordpress_post_id": 10305,
+  "repository_artifacts": {
+    "pdf": "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
+    "md": "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.md",
+    "docx": "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.docx",
+    "html": "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.html"
+  },
+  "cover_attachment": "docs/assets/ESG_Trends_Radar_Articulo_Tiempos_Sustentables.jpg",
+  "cover_attachment_note": "JPG adjunto; no se presume identidad binaria con PNG público",
+  "dataset_path": "data/Dataset_ESG_Trends_Radar_18_registros_1_4.csv",
+  "sources_history": "metadata/sources.json y extracción histórica se conservan",
+  "related_article_report": {
+    "title": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+    "version": "1.4",
+    "public_pdf_url": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
+    "pdf_repository_path": "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.pdf"
+  },
+  "previous_metadata_lineage": {
+    "legacy_title": "Arquitectura de Valor para el marketing sostenible: síntesis documental sobre desempeño circular, evidencia corporativa y consumo, con foco en Chile y proyección latinoamericana",
+    "legacy_version": "2.1",
+    "previous_related_report_version": "1.1",
+    "historical_manuscript_version": "1.2"
+  },
+  "funding": "Según declaración del autor, sin financiamiento externo específico.",
+  "conflict_of_interest": "El autor dirige Tiempos Sustentables y desarrolla Arquitectura de Valor; interés intelectual y potencialmente comercial.",
+  "jel_proposed": [
+    "M31",
+    "Q01",
+    "Q56"
+  ],
+  "doi_deposit_note": "No se declara depósito ni release creado por preparar estos metadatos."
 }

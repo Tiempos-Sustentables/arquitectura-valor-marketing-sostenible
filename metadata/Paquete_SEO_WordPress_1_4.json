@@ -1,0 +1,182 @@
+{
+  "article_title": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+  "editorial_version": "1.4",
+  "existing_post_id": 10305,
+  "recommended_action": "Preparación para la entrada 10305; aprobación editorial recibida; cualquier escritura externa o publicación requiere confirmación de la operación exacta.",
+  "seo_title": "ESG Trends Radar: Arquitectura de Valor sostenible",
+  "seo_title_chars": 50,
+  "meta_description": "ESG Trends Radar prioriza señales ESG; Arquitectura de Valor las traduce en decisiones. Evidencia circular y AV-EXP-01, protocolo aún no ejecutado.",
+  "meta_description_chars": 147,
+  "excerpt": "ESG Trends Radar organiza señales ESG para orientar decisiones; Arquitectura de Valor las traduce a operación y evidencia. Incluye el protocolo AV-EXP-01 propuesto, aún no ejecutado.",
+  "categories_existing": [
+    "Arquitectura de Valor",
+    "Medioambiente y Cambio Climático",
+    "Negocios y Finanzas Sostenibles"
+  ],
+  "tags_existing": [
+    "Cadena de Suministro",
+    "América Latina",
+    "Arquitectura de Valor",
+    "ASG",
+    "cambio climático"
+  ],
+  "faq": [
+    [
+      "¿Qué función cumple ESG Trends Radar en este marco?",
+      "Organiza y prioriza señales ESG para orientar vigilancia y decisión. Su puntuación es editorial provisional: no es un resultado experimental, certificación ni medición del desempeño de una empresa."
+    ],
+    [
+      "¿Qué diferencia hay entre ESG Trends Radar y Arquitectura de Valor?",
+      "El Radar identifica qué señales merecen atención; Arquitectura de Valor organiza su traducción a economía unitaria, propuesta útil, ejecución y evidencia. AV-EXP-01 propone evaluar un caso delimitado, pero todavía no se ha ejecutado."
+    ],
+    [
+      "¿El Índice Radar 75,6/100 está validado?",
+      "La suma corregida de los componentes es 75,6/100, 76 redondeado, nivel Alto. La aritmética está corregida; las puntuaciones siguen siendo editoriales y la rúbrica requiere calibración."
+    ],
+    [
+      "¿AV-EXP-01 ya demuestra que el envase PCR aumenta las ventas?",
+      "No. Es un protocolo propuesto de tres brazos para comparar una referencia, un cambio físico y el mismo cambio acompañado por comunicación respaldada. No hay resultados de campo."
+    ],
+    [
+      "¿El ISSN 3087-3096 identifica este artículo?",
+      "No. Identifica la publicación seriada Tiempos Sustentables, que es la publicación contenedora; no es un DOI del artículo ni certifica el método."
+    ]
+  ],
+  "related_links": [
+    [
+      "ESG Trends Radar — módulo octubre 2026",
+      "https://github.com/Tiempos-Sustentables/arquitectura-valor-marketing-sostenible/blob/main/docs/esg_trends_radar_2026-10.md"
+    ],
+    [
+      "Economía Circular en Chile y América Latina",
+      "https://tiempossustentables.cl/economia-circular-chile-latam/"
+    ],
+    [
+      "Doble materialidad ESG",
+      "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/"
+    ],
+    [
+      "El Nuevo Paradigma de la Sostenibilidad",
+      "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/"
+    ],
+    [
+      "Arquitectura de Valor en Tiempos Sustentables",
+      "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/"
+    ]
+  ],
+  "cta": "El Diagnóstico de Arquitectura de Valor puede ayudar a identificar brechas de economía unitaria, propuesta y trazabilidad. Es un diagnóstico, no una certificación de impacto ni una garantía de retorno.",
+  "schema_fragment": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Report",
+        "headline": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+        "version": "1.4",
+        "dateModified": "2026-10-28",
+        "inLanguage": "es",
+        "author": {
+          "@type": "Person",
+          "name": "Jesús Patricio Blasco Valencia",
+          "sameAs": "https://orcid.org/0009-0002-4839-104X"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Tiempos Sustentables",
+          "url": "https://tiempossustentables.cl/"
+        },
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Tiempos Sustentables",
+          "issn": "3087-3096"
+        },
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "copyrightYear": 2026,
+        "description": "Preprint metodológico; AV-EXP-01 no ejecutado; sin resultados de campo ni validación causal.",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "ESG Trends Radar",
+            "description": "Herramienta de inteligencia ESG y priorización editorial de Tiempos Sustentables, tratada aquí como arquitectura metodológica."
+          },
+          {
+            "@type": "Thing",
+            "name": "Arquitectura de Valor",
+            "description": "Marco para traducir prioridades a economía unitaria, propuesta, ejecución y evidencia."
+          },
+          {
+            "@type": "Thing",
+            "name": "AV-EXP-01",
+            "description": "Protocolo propuesto de tres brazos; no ejecutado."
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Qué función cumple ESG Trends Radar en este marco?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Organiza y prioriza señales ESG para orientar vigilancia y decisión. Su puntuación es editorial provisional: no es un resultado experimental, certificación ni medición del desempeño de una empresa."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué diferencia hay entre ESG Trends Radar y Arquitectura de Valor?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "El Radar identifica qué señales merecen atención; Arquitectura de Valor organiza su traducción a economía unitaria, propuesta útil, ejecución y evidencia. AV-EXP-01 propone evaluar un caso delimitado, pero todavía no se ha ejecutado."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿El Índice Radar 75,6/100 está validado?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La suma corregida de los componentes es 75,6/100, 76 redondeado, nivel Alto. La aritmética está corregida; las puntuaciones siguen siendo editoriales y la rúbrica requiere calibración."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿AV-EXP-01 ya demuestra que el envase PCR aumenta las ventas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Es un protocolo propuesto de tres brazos para comparar una referencia, un cambio físico y el mismo cambio acompañado por comunicación respaldada. No hay resultados de campo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿El ISSN 3087-3096 identifica este artículo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Identifica la publicación seriada Tiempos Sustentables, que es la publicación contenedora; no es un DOI del artículo ni certifica el método."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "caveats": [
+    "AIOSEO genera BlogPosting en el view-source actual; no duplicar nodos Periodical, Organization o BlogPosting al integrar schema.",
+    "Meta AIOSEO personalizada no verificable por este conector; campos SEO deben probarse y comprobarse en view-source después de guardar.",
+    "Enlaces internos deben resolverse y probarse al publicar; los enlaces listados proceden del inventario del proyecto.",
+    "No se publica automáticamente."
+  ],
+  "slug": "esg-trends-radar-arquitectura-de-valor-marketing-sostenible",
+  "slug_policy": "Usar el slug reservado indicado por el autor para la entrada 10305; no actualizar el borrador histórico 10186.",
+  "page_url": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/",
+  "author_approval": {
+    "declared_on": "2026-10-28",
+    "scope": "PDF y HTML adjuntos aprobados por el autor en el mensaje de las 17:01 -03",
+    "public_access_verified": false
+  },
+  "pdf": {
+    "filename": "ESG_Trends_Radar_Articulo_Report_1_4.pdf",
+    "sha256": "4e1a479f2e2fb81c2d7d6fef2cc4d1024c281ef5bcc61f4ca35b8b9d73c1c611",
+    "approved_html_href": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
+    "verified_public_pdf_url": null,
+    "status": "Conservar PDF aprobado; comprobar URL real de medios antes de publicar"
+  },
+  "routing_schema_note": "El fragmento se conserva sin desplegar. Canonical del HTML coincide con page_url; verificar grafo real y URLs de PDF después de la carga."
+}

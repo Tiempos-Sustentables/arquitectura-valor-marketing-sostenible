@@ -1,0 +1,83 @@
+{
+  "edition": "1.4",
+  "prepared_on": "2026-10-28",
+  "author_approved_content_preserved": true,
+  "scope": "Archivos de este paquete de carga, no auditoría de todo el repositorio ni de fuentes primarias",
+  "pdf_pages": 13,
+  "context_records": 18,
+  "urls_declared_by_author": {
+    "article": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/",
+    "pdf": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
+    "cover_png": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Tiempos_Sustentables.png"
+  },
+  "public_url_fetch_verified": false,
+  "cover_note": "Adjunto JPG y URL PNG se documentan separadamente",
+  "files": {
+    ".zenodo.json": {
+      "bytes": 1201,
+      "sha256": "3eeaae6a48722ae28cb504fb34096fb1e15e06da6a76c890796dda92bbab4f26"
+    },
+    "CITATION.cff": {
+      "bytes": 894,
+      "sha256": "311af9d8e1a432f9f6c42ca6c5ee0609d1ad240715be76b317335854825763a2"
+    },
+    "LICENSE.md": {
+      "bytes": 737,
+      "sha256": "418eb0fe6d699938e7c8d1fed6cb6d84b29ae737178b7660949c086de7b39b48"
+    },
+    "README.md": {
+      "bytes": 3091,
+      "sha256": "2141db92f5f6544576e588d6fe756a4154330741976427db31c9fea232ac6a91"
+    },
+    "data/Dataset_ESG_Trends_Radar_18_registros_1_4.csv": {
+      "bytes": 7537,
+      "sha256": "29bf382c12307af23ea5cba218a4b4ffc0bd9ae5491c1b270803f2972bf4a0f6"
+    },
+    "docs/GUIA_CARGA_1_4.md": {
+      "bytes": 2075,
+      "sha256": "87978bcf55e404646d57207b0ae4789271aa47ef3bd449c8fa8959c679adc62e"
+    },
+    "docs/assets/ESG_Trends_Radar_Articulo_Tiempos_Sustentables.jpg": {
+      "bytes": 327135,
+      "sha256": "15e43917e9f84cb7f2dc4ef1f221ec04dbd1523a230b538b117f0812c97e04a9"
+    },
+    "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.docx": {
+      "bytes": 502357,
+      "sha256": "3880fa0bd66f842e95a0caaeccf4902c7869937299b6f1b66f162983337b1adc"
+    },
+    "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.html": {
+      "bytes": 27779,
+      "sha256": "7579d878c5aaa356f4d4a804306a067d3213c279c128972dd0aa828424086c19"
+    },
+    "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.md": {
+      "bytes": 45602,
+      "sha256": "19de37bfcf6344de47bc4a16a064eb5205e9d2232c96be13ba01e6607fbb077b"
+    },
+    "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.pdf": {
+      "bytes": 343110,
+      "sha256": "4e1a479f2e2fb81c2d7d6fef2cc4d1024c281ef5bcc61f4ca35b8b9d73c1c611"
+    },
+    "docs/manuscript/README.md": {
+      "bytes": 814,
+      "sha256": "c59d5d1c2248745f5a2812fe49314f6f5c5defb2f0fb4b00d53cb5ec77ff221a"
+    },
+    "metadata/Ficha_ESG_Trends_Radar_1_4.json": {
+      "bytes": 1705,
+      "sha256": "ff4001a0a9594fa370ebfcd239d7cfc6ac84b2d8d4eb9d698b298abaaccec273"
+    },
+    "metadata/Paquete_SEO_WordPress_1_4.json": {
+      "bytes": 9001,
+      "sha256": "b97ee44c26cdc434b93349beca5eb6ac117d92e191f0e448396c7cdf2a99a0b6"
+    },
+    "metadata/edicion_vigente.json": {
+      "bytes": 851,
+      "sha256": "97157042a169efaffaf64151b9876740b008239866e54570675723900e569c27"
+    },
+    "metadata/publication.json": {
+      "bytes": 3500,
+      "sha256": "9c399742edd2300b481750109a853f90d6280848971812244d5290d26a640031"
+    }
+  },
+  "external_writes": false,
+  "doi_assigned": false
+}
