@@ -1,0 +1,28 @@
+zenodo
+{
+  "title": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "version": "1.4",
+  "creators": [
+    {
+      "name": "Blasco Valencia, Jesús Patricio",
+      "affiliation": "Tiempos Sustentables",
+      "orcid": "0009-0002-4839-104X"
+    }
+  ],
+  "description": "Artículo-report metodológico sobre ESG Trends Radar y Arquitectura de Valor para el marketing sostenible. Publicación contenedora: Tiempos Sustentables, ISSN e ISSN-L 3087-3096. Presenta 18 registros secundarios y el protocolo propuesto AV-EXP-01, no ejecutado; no declara resultados causales, revisión por pares ni eficacia validada del ecosistema. Radar editorial provisional 75,6/100. © Tiempos Sustentables, 2026. Página editorial indicada por el autor: https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "spa",
+  "keywords": [
+    "ESG Trends Radar",
+    "Arquitectura de Valor",
+    "marketing sostenible",
+    "doble materialidad",
+    "economía circular",
+    "Ley REP",
+    "alegaciones ambientales",
+    "AV-EXP-01"
+  ]
+}
