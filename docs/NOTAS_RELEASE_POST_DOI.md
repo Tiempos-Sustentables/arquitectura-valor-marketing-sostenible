@@ -1,14 +1,4 @@
-# Corrección manual de las notas del release existente v1.4.1
-
-Título a usar: ESG Trends Radar — edición 1.4, corrección técnica de metadatos
-
-Destino: https://github.com/Tiempos-Sustentables/arquitectura-valor-marketing-sostenible/releases/tag/v1.4.1
-
-Editar únicamente el título y la descripción del release existente. No borrar ni mover tags, no reemplazar el PDF y no crear otro lanzamiento para esta corrección documental. El conector no ejecutó esta edición remota.
-
-## Texto para pegar en Release notes
-
-# ESG Trends Radar y Arquitectura de Valor — edición documental 1.4
+# ESG Trends Radar — edición 1.4, corrección técnica de metadatos
 
 Corrección técnica de metadatos, identificada por el tag v1.4.1. El texto del artículo-report y el PDF aprobado se mantienen sin modificaciones.
 
