@@ -3,76 +3,33 @@
   "version": "1.4",
   "editorial_date": "2026-10-28",
   "metadata_prepared_on": "2026-10-28",
+  "metadata_updated": "2026-10-28",
   "document_type": "Artículo-report metodológico / preprint",
-  "author": {
-    "name": "Jesús Patricio Blasco Valencia",
-    "affiliation": "Tiempos Sustentables",
-    "orcid": "0009-0002-4839-104X"
-  },
-  "publisher": {
-    "name": "Tiempos Sustentables",
-    "url": "https://tiempossustentables.cl/"
-  },
-  "container": {
-    "title": "Tiempos Sustentables",
-    "issn": "3087-3096",
-    "issn_l": "3087-3096",
-    "medium": "Online",
-    "country": "Chile",
-    "registry_url": "https://portal.issn.org/resource/ISSN/3087-3096",
-    "verification": "Copia del registro aportada por el autor; no recuperación en vivo"
-  },
+  "author": {"name":"Jesús Patricio Blasco Valencia","affiliation":"Tiempos Sustentables","orcid":"0009-0002-4839-104X"},
+  "publisher": {"name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
+  "container": {"title":"Tiempos Sustentables","issn":"3087-3096","issn_l":"3087-3096","medium":"Online","country":"Chile","registry_url":"https://portal.issn.org/resource/ISSN/3087-3096","verification":"Copia del registro aportada por el autor; no recuperación en vivo"},
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "copyright": "© Tiempos Sustentables, 2026",
-  "doi": "https://doi.org/10.5281/zenodo.23749821",
+  "doi": "10.5281/zenodo.23749821",
+  "doi_url": "https://doi.org/10.5281/zenodo.23749821",
   "peer_reviewed": false,
   "field_trial_executed": false,
   "causal_validation": false,
-  "radar": {
-    "value": 75.6,
-    "rounded": 76,
-    "level": "Alto",
-    "status": "Editorial provisional; rúbrica y calibración pendientes"
-  },
-  "public_urls_declared_by_author": {
-    "article": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/",
-    "pdf": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
-    "cover_png": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Tiempos_Sustentables.png"
-  },
-  "url_verification": {
-    "author_confirmation_date": "2026-10-28",
-    "assistant_fetch_success": false
-  },
+  "radar": {"value":75.6,"rounded":76,"level":"Alto","status":"Editorial provisional; rúbrica y calibración pendientes"},
+  "public_urls_declared_by_author": {"article":"https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/","pdf":"https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf","cover_png":"https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Tiempos_Sustentables.png"},
+  "url_verification": {"author_confirmation_date":"2026-10-28","assistant_fetch_success":false},
   "wordpress_post_id": 10305,
-  "repository_artifacts": {
-    "pdf": "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
-    "md": "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.md",
-    "docx": "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.docx",
-    "html": "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.html"
-  },
+  "repository_artifacts": {"pdf":"docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.pdf","md":"docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.md","docx":"docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.docx","html":"docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.html"},
   "cover_attachment": "docs/assets/ESG_Trends_Radar_Articulo_Tiempos_Sustentables.jpg",
   "cover_attachment_note": "JPG adjunto; no se presume identidad binaria con PNG público",
   "dataset_path": "data/Dataset_ESG_Trends_Radar_18_registros_1_4.csv",
   "sources_history": "metadata/sources.json y extracción histórica se conservan",
-  "related_article_report": {
-    "title": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
-    "version": "1.4",
-    "public_pdf_url": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
-    "pdf_repository_path": "docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.pdf"
-  },
-  "previous_metadata_lineage": {
-    "legacy_title": "Arquitectura de Valor para el marketing sostenible: síntesis documental sobre desempeño circular, evidencia corporativa y consumo, con foco en Chile y proyección latinoamericana",
-    "legacy_version": "2.1",
-    "previous_related_report_version": "1.1",
-    "historical_manuscript_version": "1.2"
-  },
+  "related_article_report": {"title":"ESG Trends Radar y Arquitectura de Valor para el marketing sostenible","version":"1.4","doi":"10.5281/zenodo.23749821","doi_url":"https://doi.org/10.5281/zenodo.23749821","public_pdf_url":"https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf","pdf_repository_path":"docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.pdf"},
+  "previous_metadata_lineage": {"legacy_title":"Arquitectura de Valor para el marketing sostenible: síntesis documental sobre desempeño circular, evidencia corporativa y consumo, con foco en Chile y proyección latinoamericana","legacy_version":"2.1","previous_related_report_version":"1.1","historical_manuscript_version":"1.2"},
   "funding": "Según declaración del autor, sin financiamiento externo específico.",
   "conflict_of_interest": "El autor dirige Tiempos Sustentables y desarrolla Arquitectura de Valor; interés intelectual y potencialmente comercial.",
-  "jel_proposed": [
-    "M31",
-    "Q01",
-    "Q56"
-  ],
-  "doi_deposit_note": "https://doi.org/10.5281/zenodo.23749821."
+  "jel_proposed": ["M31","Q01","Q56"],
+  "archive": {"platform":"Zenodo","record_url":"https://zenodo.org/records/23749821","github_release_tag":"v1.4.1","document_version":"1.4","status_reported_by_author":"Published","author_report_date":"2026-10-28","independent_record_fetch_verified":false},
+  "doi_deposit_note": "DOI informado por el autor tras el depósito publicado de v1.4.1; no se declara una recuperación independiente del registro Zenodo."
 }

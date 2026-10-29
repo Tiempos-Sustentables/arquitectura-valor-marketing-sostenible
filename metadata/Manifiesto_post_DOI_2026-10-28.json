@@ -1,0 +1,20 @@
+{
+  "edition": "1.4",
+  "audit_date": "2026-10-28",
+  "base_commit_before_corrections": "36081bb5e6d5bd9c7058c9d006ecf6feb1558ef5",
+  "scope": "Correcciones documentales post-DOI y comprobación previa de los archivos aprobados; no manifiesto de integridad de todo el árbol posterior.",
+  "doi": "10.5281/zenodo.23749821",
+  "doi_url": "https://doi.org/10.5281/zenodo.23749821",
+  "github_release_tag": "v1.4.1",
+  "document_version": "1.4",
+  "corrections": ["DOI sin URL en CITATION.cff y añadido a preferred-citation","Abstract CFF sin afirmación obsoleta de DOI pendiente","Identificador DOI y URL separados en publication.json","Fragmento de schema alineado con la página de la edición 1.4, no el post 10186","Notas preparadas para edición manual del release existente"],
+  "pdf_approved": {"path":"docs/manuscript/ESG_Trends_Radar_Articulo_Report_1_4.pdf","bytes":343110,"sha256":"4e1a479f2e2fb81c2d7d6fef2cc4d1024c281ef5bcc61f4ca35b8b9d73c1c611","release_asset_matches":true},
+  "approved_formats_checked_before_corrections": ["PDF","DOCX","Markdown","HTML","Dataset CSV de 18 registros","Portada JPG"],
+  "approved_formats_match_attachments": true,
+  "historical_load_manifest": "metadata/Manifiesto_carga_1_4.json",
+  "historical_load_manifest_note": "Se conserva como manifiesto del paquete inicial; sus hashes de archivos modificados después no describen el main vigente.",
+  "schema_fragment_status": "Propuesta guardada en GitHub; no desplegada ni verificada en WordPress",
+  "release_title_notes_status": "Texto preparado en docs/NOTAS_RELEASE_POST_DOI.md; no se afirma edición remota del release",
+  "zenodo_record_status": "Published informado por el autor; consulta independiente del registro no recuperada",
+  "preservation": {"pdf_modified":false,"tags_moved":false,"historical_manifests_overwritten":false,"zenodo_json_modified":false,"new_release_created":false}
+}
