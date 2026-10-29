@@ -25,7 +25,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "copyright": "© Tiempos Sustentables, 2026",
-  "doi": null,
+  "doi": "https://doi.org/10.5281/zenodo.23749821",
   "peer_reviewed": false,
   "field_trial_executed": false,
   "causal_validation": false,
@@ -74,5 +74,5 @@
     "Q01",
     "Q56"
   ],
-  "doi_deposit_note": "No se declara depósito ni release creado por preparar estos metadatos."
+  "doi_deposit_note": "https://doi.org/10.5281/zenodo.23749821."
 }
