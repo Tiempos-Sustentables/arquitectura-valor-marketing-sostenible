@@ -30,12 +30,15 @@ El archivo histórico arquitectura_valor_sostenible_v1.md corresponde al borrado
 
 El conjunto contiene 18 registros publicados por Unilever, Natura &Co, SERNAC y NYU Stern CSB. La extracción histórica data/extracted_observations.csv se conserva; la copia editorial curada es [Dataset_ESG_Trends_Radar_18_registros_1_4.csv](data/Dataset_ESG_Trends_Radar_18_registros_1_4.csv). No son 18 estudios independientes ni microdatos del piloto.
 
-Radar editorial provisional: 75,6/100 (76 redondeado), Alto. La corrección aritmética. AV-EXP-01 propuesto. DOI: 10.5281/zenodo.23749821
+Radar editorial provisional: 75,6/100 (76 redondeado), Alto. AV-EXP-01 propuesto. DOI: [10.5281/zenodo.23749821](https://doi.org/10.5281/zenodo.23749821)
 
 Las diferencias de perímetro y metodología se mantienen. El índice 18,2% de Natura y su MRPC de 9,5% no se armonizan por suposición. Benchmarks de EE.UU. no equivalen a disposición a pagar chilena.
 
 ## Cita, licencia y archivo
 
-CITATION.cff contiene la cita de esta edición. .zenodo.json prepara un depósito de tipo publicación/informe; DOI: https://doi.org/10.5281/zenodo.23749821 [Licencia](LICENSE.md).
+CITATION.cff contiene la cita de esta edición. .zenodo.json prepara un depósito de tipo publicación/informe.
+
+Cita propuesta:
+Blasco Valencia, J. P. (2026). ESG Trends Radar y Arquitectura de Valor para el marketing sostenible (versión 1.4) [Artículo-report metodológico]. Tiempos Sustentables. https://doi.org/10.5281/zenodo.23749821
 
 El JPG de docs/assets es el adjunto del autor. No se declara idéntico en bytes al PNG de WordPress. No se redistribuyen fuentes completas de terceros ni datos personales. El manifiesto identifica los archivos de este paquete, no todos los archivos históricos del repositorio.
